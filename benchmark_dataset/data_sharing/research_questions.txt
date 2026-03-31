@@ -1,0 +1,6 @@
+RQs / interview directions for scientist data sharing dataset:
+- Part 1: Questions about scientists’ data (what data they produce and use).
+- Part 2: Questions about scientists’ data management and data management plans.
+- Part 3: Questions about scientists’ perceptions of libraries and librarians aiding with the management and sharing of their data.
+- Part 4: Questions about scientists’ awareness of and perceptions of the FAIR principles.
+- Part 5: Questions about data repositories (needs, desired features).

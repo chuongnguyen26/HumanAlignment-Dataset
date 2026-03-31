@@ -1,0 +1,2 @@
+RQ1: How do stroke survivors and OTs perceive the usefulness, concerns, and opportunities of wearable arm-use sensors in therapy?
+RQ2: What design considerations and data features would help therapists integrate wearable-derived activity data into rehabilitation planning and follow-up?

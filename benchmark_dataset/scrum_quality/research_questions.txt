@@ -1,0 +1,3 @@
+RQ1: How do Scrum practitioners define software quality?
+RQ2: How do Scrum values, principles, and prescribed events/activities advance achieving software quality?
+RQ3: Why do some Scrum teams fail to achieve higher software quality?

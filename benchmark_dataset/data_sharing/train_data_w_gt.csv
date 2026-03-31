@@ -1,0 +1,1817 @@
+doc_id,chunk_id,chunk_text,code_1,code_2,code_3,research_question
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0001,"Is, is making the searching capabilities better and especially 
+true with the type of data with spatial data. So, spatial data is you have to add the dimensions of  
+latitude, longitude, and all that. But you also have time as being an important variable there as  
+well. And I think it's going beyond just like language, natural language processing and indexing  
+in keywords. It's being able to do those things, but also in three additional dimensions",Data Management Areas in Need of Help,Data Quality Control,Metadata,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0002,"Is, is making the searching capabilities better and especially 
+true with the type of data with spatial data. So, spatial data is you have to add the dimensions of  
+latitude, longitude, and all that. But you also have time as being an important variable there as  
+well. And I think it's going beyond just like language, natural language processing and indexing  
+in keywords. It's being able to do those things, but also in three additional dimensions",Data Management Areas in Need of Help,Data Quality Control,Searchability,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0003,"And just being able to 
+filter through that data and see what's - even things like does the file that we downloaded work or 
+corrupted, doing stuff like that.",Data Management Areas in Need of Help,File Integrity,,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0004,"needs  
+convincing to invest in data management, funders need to be convinced to take it more seriously",Data Management Areas in Need of Help,Funding,,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0005,"Well, I mean, I think, you know, as a repository, we're always struggling with -  
+which I'm sure you've run into - which is the scientific community always needs training",Data Management Areas in Need of Help,Training,,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0006,"I mean, if that kind of help is available. It will be great if we can have  
+someone either on the university level or the community level. We can have some sort of  
+training workshop to help me train my group member. For example, my, you know, I post- 
+students that kind of data skills, like data formatting from flat file format to relational database  
+because that's not something - I'm from geoscience that’s not something geoscience teaches.  
+That's kind of a database skill.",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0007,For this particular project there is no formal DMP,Data Practices,Storage of Data,DMP Dependent on Project,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0008,"Yeah, I'm confident to say that we basically follow our data management plans.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0009,"There are, you know, if a project, like NSF funded project requires a data  
+management plan, obviously, we follow those. We do have policies on our website that relate to  
+how we treat the data and open access and that sort of thing. So those are, those are what we  
+follow. As far as [redacted – a government agency] concern, the data management planning is  
+part of our funding cycle and commitment to following through on things like the Core Trust  
+Seal Principles.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0010,"Proposed data are initially reviewed internally by the science team. If approved for  
+consideration, then the data are nominated for review by the User Working Group  
+(UWG). If approved, a dissemination plan is proposed to the UWG. If approved, the  
+data are archived and curated, collaboratively with the data producers, to develop a  
+product or service. The completed data product or service then receives alpha review.  
+Upon completion of required revisions and approval by the Configuration Management  
+Board (CMB), the data product or service receives an external beta review, which  
+includes the UWG and invited peer-reviewers. Upon completion of required revisions,  
+archiving of a new version, if applicable, and approval by the CMB, the data are  
+released to the public. Comments received about the data after release are presented to  
+the science team.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0011,"So, our data management plans, especially for [redacted – a government  
+agency] related is that we're going to put things into our [redacted] portal. And I think we've  
+mostly followed through on those plans.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0012,"Yeah. So, actually one thing I should  
+mention, so early I mentioned we usually share data in two ways. And flat file and a relational  
+database. And right now part of our data actually are shared and preserved through [redacted - 
+
+university not where Participant 1 resides] library. The [university not where Participant 1  
+resides] data repositories.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0013,"but other projects are integrating their data  
+management with [another university]'s institutional repository, which they call [redacted]. So,  
+we try to use the different resources where appropriate, but we do try to coordinate with the  
+institutional repository.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0014,"But to manage that we have our own application called the [redacted] and that's built on top 
+of the CKAN content management system for data cataloging.",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0015,"Yeah, I use our own. So, we have our own data repositories built on top of CKAN. 
+So that's an open platform for data management that will use a lot of the geospatial extensions  
+built on top of CKAN and plug-ins and things like that",Data Practices,Storage of Data,Uses DMP,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0016,"he [university not where Participant 1  
+resides] data repositories",Data Practices,Storage of Data,Uses IR,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0017,"ut we do try to coordinate with the  
+institutional repository.",Data Practices,Storage of Data,Uses IR,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0018,"In some other projects the  
+[redacted – government agency] has central data repositories where data has to be submitted",Data Practices,Storage of Data,Uses IR,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0019,"Yeah, I use our own. So, we have our own data repositories built on top of CKAN. 
+So that's an open platform for data management that will use a lot of the geospatial extensions  
+built on top of CKAN and plug-ins and things like tha",Data Practices,Storage of Data,Uses IR,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0020,"o,  
+and within my group or between my group and my collaborator, we share data by using a  
+boundary, you know, cloud storage solutions. For example, you know, Google Drive or  
+OneDrive, etc, etc",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0021,"We also have an operational system where we actually build 
+a cloud native application that uses satellite data. And for that we store the data in Amazon S3  
+buckets",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0022,"nd I think one of the downsides of the Cloud is that after say you're 
+on that three-year grant cycle, once you hit the end of those three years, you have no way of  
+paying that bill anymore. And if you own the hardware, then the only way it's really going to go  
+well is if either the computer crashes in the hardware fries or if someone goes and turns it off. 
+
+And, you know, generally it's my experience that they're not going to turn off the computer that's 
+working just because your your grant is over, whereas Amazon is definitely going to turn off  
+your S3 bucket once you stop paying the bill.",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0023,"think sort of in that vein, Cloud storage. I think I need to give it a special shout out is something 
+that's really not sustainable for this purpose. And it has to do with that funding issue. Once the  
+bill runs out and the bills aren't paid, then that data all goes poof. And if you don't have anyone  
+who's become, especially in big data context, you need to have someone with a pretty deep  
+pockets that's willing to rehost that data in and pay for that bill if that data is going to come back. 
+So, I think that's a really kind of, you know, a key issue that you have to deal with there. So if  
+you're going to do any sort of cloud storage of data and data repositories, then I think it's really  
+important that those efforts be very well-funded to make sure that there is longevity there",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0024,It's more than 20 petabyte file system at this point,Data Practices,Typical File Size,>100Gb,RQ2
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0025,"Those actually - the point I want to mention is the  
+limitation. Because the data we generate is usually very specialized to manage that data. Usually  
+require a lot of domain knowledge. So, just given that the amount of how library and the library  
+can provide may be limited in some way. And by however, if that library or librarian has a  
+background from geoscience as well then that will be terrific. That will be great. And then the  
+amount of help that the library or librarian can provide will be much, much more",Perceptions of Librarians,Librarians need Background Knowledge to Fully Help,,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0026,"On the research side of things, I think that a lot of  
+the data that we work with is probably way too messy to make that worth anyone's time. Just  
+because you spend time getting the librarian to figure out the data, then you have to figure out  
+what the librarian figured out and this is especially the case for those field data types of datasets  
+where from form to form. So, we create forms and people vote with their iPhones and they fill  
+out the forms and then send us back a picture with their geotechnical coordinates and all that  
+stuff. And any variation in those forums means that you have to essentially reprogram the entire  
+pipeline. So stuff like that, we have a lot of data cleaning and things like that that have to work  
+before the data is usable and I don't know if that's as well suited for that type of work.",Perceptions of Librarians,No Role for Librarians in Data Management,Data Too Messy,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0027,"I do not think they would manage computer simulation results. This is very specialized data that  
+might be useful for other scientists in the same field.",Perceptions of Librarians,No Role for Librarians in Data Management,Data Too Technical,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0028,"Then it's something that is well-suited to a system  
+where you have a librarian managing the data",Perceptions of Librarians,Role for Librarians in Data Management,Data Management,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0029,We work closely with our libraries on various approaches for facilitating discovery,Perceptions of Librarians,Role for Librarians in Data Management,Data Sharing,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0030,"We continually work with our libraries on the improvement of existing capabilities and on  
+development of new capabilities.",Perceptions of Librarians,Role for Librarians in Data Management,Do Not Know Specific Role Yet,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0031,"t, For example, I mean not every  
+university has this kind of data repository, a university data repository. I think if they do, I  
+mean, the library and librarians, they will definitely be very helpful in making our data  
+online and publish it in those university data repositories.",Perceptions of Librarians,Role for Librarians in Data Management,Find Repositories,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0032,"I guess the library and librarians, they can help us publish it, that  
+data into in the university data repository if that kind of repository exists. Yeah, I think that's the  
+one thing I want to emphasize.",Perceptions of Librarians,Role for Librarians in Data Management,Find Repositories,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0033,"So, we worked out an  
+arrangement with the [another university] libraries to be our long-term archive. And what that  
+means is that when we have data that's obsolete, usually because it's been supplanted by newer  
+versions, we make [sure] we put that data into what's not a public long-term archive that's hosted  
+by the [another university’s] institutional repository",Perceptions of Librarians,Role for Librarians in Data Management,Find Repositories,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0034,"Yeah, I think so. I mean, I think it's also sort of added legitimacy there, right? If  
+you have someone whose job it is to actually understand how to find that data, your data librarian 
+than that. I think that, that is actually a really good idea. I like that idea quite a lot. I think that,  
+sort of echoing what I had been kinda harping on about the field data, that's that stuff for privacy  
+concerns don't really let us do that. We obviously can't share private data. And in some cases we  
+can't even share it with, with collaborators, with people not even, with people not directly  
+associated with the project. So that would be one where we probably couldn't use the help of a  
+librarian there, but for stuff like the, fire product then yeah, absolutely. You know, having that  
+within some sort of infrastructure designed around doing that, providing support for helping  
+people find it that would be very helpful",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0035,"first off two things: one is, at [another university], we 
+actually have a copyright advisory office and there is a lawyer, one single loan lawyer who helps  
+us with open access issues. So we've worked with [redacted] to do the due diligence to make sure 
+that when we apply a Creative Commons license to some of our created data, that, you know,  
+we've touched the right bases and pick the right license. So libraries have been, can be very  
+helpful on the legal and institutional issues surrounding data-sharing. There are a lot of lawyers  
+in other parts of the university who are there to protect IEP and you now are in the university  
+income from patents and, and protecting IP. But the library in our case that's been helpful in  
+promoting open access.",Perceptions of Librarians,Role for Librarians in Data Management,Licenses,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0036,"Working with some of the other scientific groups on campus to develop  
+open access policies like for publications and things",Perceptions of Librarians,Role for Librarians in Data Management,Promote Open Access,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0037,"hare our metadata  
+so that different user bases have access. You know, can find out about data. The library user is a  
+different user community. Some of our normal data and science user community",Perceptions of Librarians,Role for Librarians in Data Management,Reach Other User Communities,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0038,"It's good because they reached different users, especially students and the educational  
+community",Perceptions of Librarians,Role for Librarians in Data Management,Reach Other User Communities,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0039,"So, and  
+then an area I think is interesting is, obviously, the work on ontologies. So trying to link different 
+scientific communities, different user communities in terms of their language issues",Perceptions of Librarians,Role for Librarians in Data Management,Reach Other User Communities,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0040,"And so we, in a couple of cases, donned a data  
+rescue effort, because you need to get the right copies of the data. You need to find the people  
+who are still around who helped develop it and can help you document it since they weren't 
+
+properly documented. And then you need to find a home and figure out how much support you  
+can give to these old data sets. And again, that's where I think libraries can help because they can 
+work with their local scientists and faculty to make sure things aren't lost. M",Perceptions of Librarians,Role for Librarians in Data Management,Rescuing Data for Preservation,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0041,We have had interactions with our libraries on the deep archiving,Perceptions of Librarians,Role for Librarians in Data Management,Rescuing Data for Preservation,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0042,"The [university not where Participant 1  
+resides] data repositories. The reason, philosophy behind that is we think, my collaborators and I  
+think, that is probably better in terms of preserving the data for a longer term. Because those  
+online data repository, they are usually funded by some sort of funding which can fluctuate. So,  
+if the funding is gone, then that data repository will be gone",Perceptions of Librarians,Role for Librarians in Data Management,Stability of University Libraries,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0043,"Again, I think the case can be made that library, especially university libraries, have been 
+around longer than the U.S. government",Perceptions of Librarians,Role for Librarians in Data Management,Stability of University Libraries,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0044,"The first one is the training. So,  
+training our students, our researchers, and even faculty members. Not every faculty member  
+knows how to properly manage datasets. There's a learning curve. So, I guess they can provide  
+training workshops.",Perceptions of Librarians,Role for Librarians in Data Management,Training Workshops,RQ3
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0045,"Yeah. I'm aware of that principle,",Awareness of FAIR,Aware of FAIR,,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0046,: Oh yeah!,Awareness of FAIR,Aware of FAIR,,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0047,We continually try to improve adherence to the FAIR Principles,Awareness of FAIR,Aware of FAIR,,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0048,"Yeah, so I've been I've been around FAIR for quite awhile now, a couple of years  
+and that's—sorry, [redacted] just coming in. Just that's something where, you know, I'm a little  
+bit split on it in some ways. I mean, in principle, yes, FAIR is a great thing to aspire to",Awareness of FAIR,Aware of FAIR,,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0049,"In parallel, there are some groups  
+like Group on Earth Observations that have also developed data management principles that, you 
+know, while before FAIR called for machine readable metadata and minimal time delays and use 
+of open standards.",Awareness of FAIR,Aware of Other Principles,Group on Earth Observations,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0050,", the  
+GEOSS Data Management Principles, and the GEOSS Data Sharing Principles,",Awareness of FAIR,Aware of Other Principles,Group on Earth Observations,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0051,"Implementing the features that are described in the GEOSS Data Sharing Principles  
+Implementation Guidelines and in the GEOSS Data Management Principles Implementation  
+Guidelines would be a good place to start.",Awareness of FAIR,Aware of Other Principles,Group on Earth Observations,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0052,"as well as OAIS  
+and others",Awareness of FAIR,Aware of Other Principles,OAIS,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0053,"but open is outstanding as a “A” grade. And so, there's some  
+communities that have been pushing open data access for a long time",Awareness of FAIR,Aware of Other Principles,Open Access,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0054,"And so there have been 
+some groups that have been pushing for a fully open access uses, the public domain, use of  
+Creative Commons and other open licenses to support open science",Awareness of FAIR,Aware of Other Principles,Open Access,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0055,"o, but in Earth  
+sciences, open access, I think, is a higher standard than FAIR",Awareness of FAIR,Aware of Other Principles,Open Access,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0056,"[Redacted] also [redacted] the Open Geospatial Consortium. So,  
+that's the organization that puts together all the standards for spatial data sets and how they're  
+shared and the services that you build around sharing those data sets",Awareness of FAIR,Aware of Other Principles,Open Geospatial Consortium,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0057,"So, it's  
+come up for me with that there's a push out there for something called STAC, the  
+SpatioTemporal Assets Catalog. And that's sort of associated with this analysis ready data group  
+that meets, I think quarterly, and they put together these code sprints to to actually build the  
+STAC, the assets catalog itself",Awareness of FAIR,Aware of Other Principles,STAC SpatioTemporal Assets Catalog,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0058,"So, that's something like that, that  
+STAC program group that I mentioned before as it is working on doing",Awareness of FAIR,Aware of Other Principles,STAC SpatioTemporal Assets Catalog,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0059,the TRUST Principles,Awareness of FAIR,Aware of Other Principles,TRUST Principles,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0060,"I find FAIR is not as, actually is behind because, for example, they don't  
+require interoperable, machine-readable licenses. They don't require minimal time delays and so  
+forth. So for some fields, FAIR is an improvement. But for some of the communities I work in,  
+FAIR is actually below what has been the goal of open access",Awareness of FAIR,Problems with FAIR,Lack of Interoperabiility and Machine-Readability,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0061,"And I think what we should aspire to, but I think that there are a lot of cases  
+where people can become a little bit overzealous about it, right? And sort of insisting that you  
+need to make all your data openly available on all that sort of becomes like religion and you  
+know, like before, I was talking about they feel that they are simply things that I'm just never  
+going to share it because it's pupils, you know, privacy at stake, their financial well-being, things 
+that they don't want shared. So, I think that there's a tendency for people to kind of push FAIR to  
+be, you know, to, to take it a little bit far. And, and you know that the sum of it is that there are a  
+lot of people pushing these guidelines with sort of this subtext of it's better to have for your 
+
+research and not collect that data in the first place than it is to maximize the data that you have  
+available to you. And I think that that's just something that to me doesn't make a lot of sense. But 
+when we're talking about the data that is supposed to get there, I think that those are definitely  
+the guiding principles you should be using.",Awareness of FAIR,Problems with FAIR,Too Much Emphasis on All Data Being Open,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0062,"I think you need to not go overboard with it. Yes. You know. Don't let it prevent  
+you from doing good work just because you're at. And again, this is getting to the open data. So,  
+I'm sort of lumping these two things together when they are, they are different. But, you know,  
+not letting open data get in the way of good data. That leads to two good research and good  
+results and better, depending what you're doing, better humanity. Don't let open data get in the  
+way",Awareness of FAIR,Problems with FAIR,Too Much Emphasis on All Data Being Open,RQ4
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0063,"So, for example, we've developed a tool. So, in the field  
+where we work, over 20 years ago we were one of the first to develop a category of data that we  
+call gridded population data using GIS tools. But over the years, a lot of other groups have  
+developed comparable data, but using new methods and different input data. And we still do ours 
+because it's kind of a simple, clean way of doing it, but other people have taken our data and  
+enhanced it and, and others or use different methods completely from ours. So, it actually gets  
+confusing to users as to which data set is most appropriate and they all have their pros and cons.  
+So, we've actually have developed a site that allows people to find comparable information.  
+Because the scientist is fine going and reading a paper about a dataset but other kinds of users  
+aren't going to read eight different papers from totally different journals and try to make sense of  
+it. So we've developed comparable metadata. We have a tool that allows you to view the same  
+region and compare what each of the different datasets tell you. And that lets users decide, helps 
+
+users decide, what dataset might be the best one for their purpose",Desired Repository Features,Data Comparison Tools,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0064,"Yeah, I think when it comes to data repositories and getting people to actually use  
+the data and keep using the data, I think the key to that really has to be building a good data APIs 
+that people can access the data. So, I think just in a programmatic way of accessing the data.  
+And, when I say good, what I mean by good is that the program or whatever tools you build to  
+access that data, they should be stable over a long period of time.",Desired Repository Features,Data Comparison Tools,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0065,"So that's what I think a lot,  
+you know, we're moving from a world that used to have - where data was scarce on any  
+particular topic - to a world where now there's lots of choices of data to pick for the same topic.  
+And unless you're a super expert, you don't know which one might make the most sense for you.  
+So I think part of the change is that repositories need to start providing more guidance and tools  
+to help users select and decide what dataset makes the most sense for their application and all the 
+discussion of fitness for use trying to create those metrics to provide and present back to the  
+users in understandable ways",Desired Repository Features,Data Curation,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0066,"And Research Data Alliance had a group which  
+reviewed licenses and pretty much concluded that Creative Commons was one of the options  
+because of its ubiquity across not just data but other types around the world. Machine-readable,  
+all that sort of stuff. I do have concerns about the public domain. I don't know if you've had any  
+discussion of what the public domain is in terms of the fact that it's mostly recognized in U.S.  
+law and jurisdiction. So, it's not - it's actually not a globally accepted, consistent legal concept.  
+So, it does cause problems for other people around the world who may not either understand or  
+be able to take advantage of things that are in the public domain, were declared to be in the  
+public domain. So that's where Creative Commons comes in better and some of the other open,  
+like software license and some things.",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0067,"Open licenses, such as the Creative Commons Attribution 4.0 International license, without any  
+restrictions.",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0068,"The type of licenses as I have been always using when I share my data and when  
+upload data online is CC-BY",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0069,"Generally, when people asked me about what licenses they should  
+use, if it's data that they don't mind putting out there and it's something that they want to make  
+free and open. Then personally, I like the Creative Commons license with attributions. So the  
+CC-BY license. And the reason I like that is that it lets anyone who wants to modify the data,  
+modify the data. So, there's not a restriction on modification of the data, but also require them to  
+document the changes. And I think for what we do, that's something that's really important  
+because it gives us protection for the types of data that we put out. We would put out data about  
+agricultural markets. It's a trillion plus industry. And people who read the reports, and when we  
+look at who reads the reports, you get some pretty big names reading reports, international  
+brands, council UN reads the reports. And what we don't want is to have our data go out there,  
+someone modifies the data, leaves our logo on it and doesn't document the changes. And then we 
+get some change in that data that's attributed to us when it shouldn't have been attributed to us.  
+So, you know, it's not a lot of protection, but it's sort of covers us in the case that if someone  
+goes and modifies your data, technically our licenses say that they should have documented that  
+change.",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0070,"And Research Data Alliance had a group which  
+reviewed licenses and pretty much concluded that Creative Commons was one of the options  
+because of its ubiquity across not just data but other types around the world. Machine-readable,  
+all that sort of stuff. I do have concerns about the public domain. I don't know if you've had any  
+discussion of what the public domain is in terms of the fact that it's mostly recognized in U.S.  
+law and jurisdiction. So, it's not - it's actually not a globally accepted, consistent legal concept.  
+So, it does cause problems for other people around the world who may not either understand or  
+be able to take advantage of things that are in the public domain, were declared to be in the  
+public domain. So that's where Creative Commons comes in better and some of the other open,  
+like software license and some things.",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0071,"For the most part, data you'll find out there are at least  
+coming out of the academic community in this sort of informal data economy that we work in  
+where everything is sort of within the consortium. A lot of times, people will send this data and  
+there's no license on the data. And you know, generally that means you can kind of do whatever  
+you want with it, but anything that has our program name attached to it, I try to do my best to  
+make sure that that's all above board. So, a lot of it is just encouraging people to put a license on  
+it. We don't care what the license is and just making sure that we have the right to be distributing  
+that data, rather than just sort of assuming tacit approval if there's no license",Desired Repository Features,Data Licenses,Everything Must Have a License,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0072,Should be open to all.,Desired Repository Features,Data Licenses,Open Access,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0073,": Okay, so getting data DOI.",Desired Repository Features,Data Traceability,DOI,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0074,"I guess, yeah, I guess the most important thing  
+that data repositories should do to promote the reuse of data is show clearly, explicitly how to  
+cite that data, how to give credit to the data uploaders. By doing so, you are promoting both. You 
+are promoting the interaction between data uploader and data users because you gave credit to  
+the data uploader you make, you make data users’ work easier in terms of citing that  
+dataset",Desired Repository Features,Data Traceability,Proper Citations for Data,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0075,"So we always want 
+
+to make sure that we're crediting the right people for their actual work on creating that data",Desired Repository Features,Data Traceability,Proper Citations for Data,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0076,"ell, I mean, one thing is, obviously we do have to download metrics.",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0077,"That's going to continue to change. Yeah,  
+there's a lot more metrics that you have to build into systems.",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0078,"And part of this is one of the metrics you have when you  
+are doing these projects, especially if you're doing something for data producers, how many 
+
+people are downloading your data. And I think that for us as [redacted], not beneficial for us to  
+steal our partners’ clicks, so to speak. Because that means that if we don't report back to them  
+how can many people have downloaded their data from our website, then they can't report that  
+back to their funding agency and say, “okay, here's how many people downloaded the dataset in  
+general.”",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0079,": Yes. Especially for something like the fire products where it is the official  
+[redacted – a government agency’s] products. So, it's very important to them that people are  
+interested in the product and use the project and like the product. So, for us on that project clicks  
+is actually kind of—I keep saying clicks. Clicks isn't really the right word for it. But yeah,  
+downloads is sort of a key metric for us because if we make the best product in the world, but no  
+one downloads it, then who really cares?",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0080,"One of our staff actually just co- 
+published a paper in either [redacted] or whatever, proposing versioning…approach. So, you  
+know, people create versions of data in very haphazard ways and the numbering, you run into  
+this, I’m sure. So are there some best practices and versioning and it varies depending on the  
+kind of data and discipline.",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0081,"nd 
+that's important both for data sharing in the sense that as datasets evolve more quickly and then -  
+in the past - people need and downstream services need to keep up with rigor in terms of  
+understanding what data inputs were actually used. You know, are they providing the most  
+current version to their users? And that's important obviously for preservation in the long run  
+because when you have to look back and decide, well, did someone use version 1.1 or version  
+two; they corrected this problem might make a big difference in either the scientific  
+understanding or awareness of what the data told you at the time",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0082,"I think that even, even just versioning data sets would make a lot more sense to  
+me",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0083,"Yeah. I mean, my concern with a lot of the work I do is I want to check and make  
+sure that what I put out there isn't wrong. And if it's - I don't want to have to say, “Oh, we're  
+going to ignore that publication.” And especially when we're talking about publications too, if  
+you use a version of the dataset that I'll say say we see like a 20 percent increase in fires one year 
+for some reason. We put that - there's someone goes out unpublished paper about the 20 percent  
+increase in fires and we're go, “Oh, we screwed something up. There actually wasn't a 20 percent 
+increase,” and we go back and we change that, well that other paper’s published forever that that  
+author kinda has to live with what they publish based on the data. So if you just replace it in  
+place, you delete the old one and then no one can go back and double-check it, then you've kind  
+of got a problem because you're, the results of your experiment are not repeatable",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0084,"Feed two birds with 
+one stone. Here the kind of an important thing is, is versioning data, versioning and making sure  
+that your data is traceable based on the version number. So again, if something changes, I want  
+to be able to go back and look at the exact data that I downloaded the form, make sure I get the  
+same result. That's especially true if you're doing work that needs to be peer reviewed. But I  
+think sort of relevant to the idea of versioning your data when things change. It's also important  
+to make sure that old versions of the data are still available even if the version itself is  
+deprecated. So, with the [redacted] fires product, there’s a whole versioning structure that they  
+have. But essentially our product came online and what was called version five [redacted] 
+products. So we were sort of a late comer to that they've reprocess all the data every couple of  
+years and each one of those gets incremented a version. So we we have the data we process for  
+version 5. Once they stop processing data. For version 5, they move to version 5.1 and we  
+processed everything. So we had version 5, version 5.1. No, we're working on version 6 and  
+upcoming, so it will be version 6.1 in version 7. The important part here is that none of those  
+files from version five has changed and they're all still available. So if you did any research with  
+version 5, as long as you wrote in your manuscript or whatever report you did that you use  
+version 5, people will be able to go back, get the same exact data, run the same analysis, and  
+verify your results.",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0085,"The data will not be released to the public until the publication of that  
+relevant study.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0086,"We're part of a network and, and I've been involved in, in this organization called  
+[redacted – discipline specific organization], which is clearly called for quote, minimal  
+embargoes. Obviously that depends a little bit on the community, so it's a little hard to say. But  
+especially, of course there's a distinction with publicly-funded data. The idea is once a data  
+provider, which in some cases, like with the [redacted], there also the repositories. Once data has  
+gone through its quality control and has, you know, the basic documentation, it should be made  
+available. Now there may be additional time needed to fully document it to international  
+standards but that's not part of an embargo. Especially now with faster turnaround on data  
+publications and increased use of - like in physics and the kind of open manuscript publishing -  
+instant turn around, you know, the idea of data embargoes is really starting to get obsolete really. 
+So, I think that hopefully we're looking at shorter embargo periods. Again, unless there's some  
+scientific reason that it’s needed",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0087,"We would like to keep data in our projects until we have published results in a journal  
+publication for example. If give away the data directly someone else can use it an make [sic] a  
+journal publication. Then we would not be able to publish as it has already been published by  
+someone who did pay anything for producing the data.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0088,"The length of embargo periods could be based on many factors and should not necessarily be  
+limited, within reason of course. Multiple year embargoes could raise issues, unless there is  
+sufficient justification",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0089,"The place where I see embargoes is typically in peer  
+reviewed literature where you have a journal article that goes out and then the journal will put  
+that behind a paywall for usually one year, sometimes I've seen two years and then after that it's  
+anyone can download it for free and they don't monetize it anymore. To me, that makes sense  
+because there's a financial motivation on whether I agree with it or not. There's, you know, that is 
+what it is for - for data. I don't necessarily know if I think there should be one. I mean, for data, it 
+seems like your data is either ready to be shared or it's not. So, if it's not ready to be shared then  
+you're better off holding onto it until it's ready before you put it into any sort of repository. And I 
+think that the scientist side of me is thinking here that having your data be immutable is  
+extremely important. So, if I download your data one day and then I need to go back and check  
+my results that I, based off of that data two years later, I should still get the same result. So, I  
+think that, you know, what should be out there should essentially be the final version and from  
+that perspective",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0090,"Just because, you know, what's out there should be the version that I think you're  
+comfortable with and you're comfortable with people using and I think having an embargo on us, 
+then no one can use it. To me, that says that you're either still using it for your own purposes,  
+which is fine, just hold onto it or you're not comfortable with people using it, in which case you  
+shouldn't have it out in the public because who knows what's going to happen when people use  
+it?",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0091,"o to me, I  
+think it's, it's more important to worry about making sure your data is in good condition to be  
+used than it is to worry about embargo in the data and if you're not comfortable with it, don't  
+release it.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0092,"Oh, yeah. I mean, obviously there's practical issues and financial issues that  
+repositories have to deal with. I think those have to be sort of trade-offs in terms of reusability of  
+the data by other people and capacity and so forth. So, don't think there's a set limit. And it  
+depends, of course, on the field and what some of the needs are. So, I don't think there's a straight 
+answer, but we, you know, we deal with it all the time and try to negotiate or work something out 
+with people on - we actually just had a case where we didn't cut the files. It wasn't the size, it was 
+actually the number of files that gets on too unwieldy for people, right? So we had the data  
+provider cut the number of files from 12,000 to 200. So, they were bigger but telling users you  
+have to find something you want out of 12,000 files is a lot harder than telling the user here are  
+200 files you can pick, sort through.",Desired Repository Features,File Size Limits,Limit Number of Files,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0093,"No, absolutely not. I don't think so",Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0094,"For that system, every eight days we go out, we  
+collect every single image that's been taken of the Earth's surface over that eight-day period,  
+comes in 292 tiles covering 180 west, 190 east, 91 to 190 South. And we take those and we  
+combine them into one big global. I mentioned that one big global image compressed ends up  
+being about four gigabytes per image. But what we do with that image is that we internally tie all 
+those so that the arrangements of the pixels within the image itself or actually in blocks, so  
+blocks of 256x256 tiles within the image. And what that allows us to do is that when someone  
+requests a subset of that image, we can go find those blocks that just overlap that one specific  
+area and only pull out those blocks. We don't need to store the original 292 tiles anymore. And  
+this is a really efficient structure for us because it means that when we have more. We have more 
+pixels in those blocks. We actually get a better compression ratio with the type of compression  
+that we're using. And it's that makes the entire structure more space efficient. And then when  
+people ask for that data, it actually means that we can create fewer API calls because we're not  
+pulling from 292 tiles, we're just pulling from one tile and we're spending, we're sent him at one  
+response instead of 292 responses. So when you're working in the Cloud, you get billed per  
+request. And that adds up a little bit over time. And it's not a huge cost, but it's something that  
+adds up. But it's also something where it reduces the number of socket connections that we need  
+to have to that file or to that, to that system at any one time. Which means that we can support  
+more traffic from different sources rather than having one person trying to download ten files at a 
+time and eating up all of our bandwidth. So then, you know, that doesn't mean we can only have  
+one connection to the file at a time. And actually if we, if we're doing stuff internally where we  
+need to access the file faster, we can use that same internal tiling structure to essentially retile the 
+image and create multiple parallel connections at the same time. So for us, this is all stuff that  
+wouldn't be possible if we weren't using a file size that without good compression, probably  
+would not be acceptable if you were to try to send it over HDP either. They're rather large files,  
+uncompressed. These things are well into the hundreds of gigabytes of storage that they can use.  
+So, it's not the kind of stuff that you want to have any excess in terms of in terms of storage  
+requirement if you can avoid it. So, for us, large files there are the way to go for us",Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0095,"I mean, let me think about that. So, I can't speak for other fields, but in my field, I  
+don't think they should have put a limit. Because you know, the reason why you setup a data  
+repository is because you wanted to share data. You want people to share data. We want people  
+from your fields. So, for data repository that may put them into two categories, I have been using 
+both specialized and the general data repository. For specialized data repositories, they are  
+designed for specific fields. For that kind of repository, I don't think they should set up a limit.  
+For general data repository, maybe they should because they don't put any limits on the types of  
+the data you can upload. So, for specialized data repository, that's actually the kind of data  
+repository I use probably more, for that kind of data repository I don't think it should set up a  
+limit because you know what kind of data you are expected to receive and that’s the data  
+uploader’s, they violate whatever rule you set up, they upload something that is not suitable 
+
+for this data repository and it doesn't know how to score it. So that it's not about data limits, it’s  
+just about data type. So, somebody saying, for specialized data repository, I don't think they  
+should. I mean, the data repository manager should set up a limit for general type of data  
+repository data that receive all kinds of data. Maybe they should set up a limit because data  
+repositories are not free to run, actually. So, yeah.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0096,"And for more traditional 
+data that we know very well and data generation approaches are very unique and consistent, not  
+unique, very consistent and in the entire community. For that type of data, maybe we should  
+consider uploading that data in specialized data repository.",Desired Repository Features,High Quality Metadata,Comparable Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0097,"So, for example, we've developed a tool. So, in the field  
+where we work, over 20 years ago we were one of the first to develop a category of data that we  
+call gridded population data using GIS tools. But over the years, a lot of other groups have  
+developed comparable data, but using new methods and different input data. And we still do ours 
+because it's kind of a simple, clean way of doing it, but other people have taken our data and  
+enhanced it and, and others or use different methods completely from ours. So, it actually gets  
+confusing to users as to which data set is most appropriate and they all have their pros and cons.  
+So, we've actually have developed a site that allows people to find comparable information.  
+Because the scientist is fine going and reading a paper about a dataset but other kinds of users  
+aren't going to read eight different papers from totally different journals and try to make sense of  
+it. So we've developed comparable metadata.",Desired Repository Features,High Quality Metadata,Comparable Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0098,"I think all the data depositories obviously should be the preparing metadata to  
+international standards and relevant to their communities and that those need to be searchable.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0099,Help to make it easier to find the data you would desire,Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0100,"So we always, I mean, over time, we always got a new type of data. And for that  
+kind of a newly generated, new type of data, oftentimes, their metadata system is not  
+following any existing data metadata system.",Desired Repository Features,High Quality Metadata,More Types of Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0101,"e. And of course, there's a lot of, like for spatial data that  
+had a lot of innovation there because it's getting, well, on the one hand, the data's getting more  
+spatially fine-grained and there's lots of volume of high-resolution remote sensing data button  
+but then, the question is, how do you make that discoverable through, through bigger, more  
+powerful AI engines and things.",Desired Repository Features,High Quality Metadata,More Types of Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0102,"I mean, for us in spatial data is critical. We've been, we've been revamping our  
+architecture or some of it was still somewhat manual the way GIS people work to create datasets  
+and we're trying to revamp the architecture so it's a little more seamless in terms of the data  
+intake, the processing, the quality control, generation of products, and the associated  
+documentation and delivery",Desired Repository Features,High Quality Metadata,More Types of Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0103,"So this is something that's, yeah, spatial. Spatial being the sort of special case here  
+again, where, for us, it's important that discoverability allows you to discover data sets in space  
+and in time in addition to the thematic content of the data set.",Desired Repository Features,High Quality Metadata,More Types of Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0104,"But I think to me that's  
+probably the most valuable input I can give you here is that for the spatial side of things that you  
+know that it's more than just what's in the file. It's when was the file and where was the file?",Desired Repository Features,High Quality Metadata,More Types of Metadata,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0105,"Yeah, I think when it comes to data repositories and getting people to actually use  
+the data and keep using the data, I think the key to that really has to be building a good data APIs 
+that people can access the data. So, I think just in a programmatic way of accessing the data.  
+And, when I say good, what I mean by good is that the program or whatever tools you build to  
+access that data, they should be stable over a long period of time.",Desired Repository Features,Machine Readability Tools,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0106,"So, you have to get people to buy  
+it. No one wants to be the only data set in a brand new data distribution system because then it's  
+like you're one out of four. But at the same time, I think you also, at least personally, I have a  
+hesitancy to put my data in something where, you know, you scroll down and it's like page one 
+and then page 10,000 and your data's just going to get lost in the fray there. So, I mean that, that's 
+sort of tangential here.",Desired Repository Features,Number of Datasets in Repository,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0107,"Mm-hm. Yeah. So I mean, you ever try shopping for Mother's Day gifts on  
+Amazon? You look through it, you scroll through and there's just thousands and thousands of  
+options that you get kind of, like, decision paralysis and then you never actually buy anything. I  
+think it's the same way with data. If you look at some of the bigger ones and maybe I shouldn’t  
+use names, but there are certain places where you can go out there and you look and you type in  
+like “agriculture datasets”. And you need to find one and instead you get 15,000 responses. And  
+those are in these. You know, it's, maybe it's not quite exact, but you're looking for maybe it is  
+what you're looking for, but it's only in the Northwest corner of Kansas. And there's another one  
+from the southern tip of Florida and there's another one from like a province in Kenya and it's  
+very distributed and it makes it very hard to find what it is that you're actually looking for if  
+there's too many options. And so, I think that curation of those datasets is somewhat important at  
+some level and, you know, it's a feasibility issue, right? I mean, you can't have someone whose  
+job it is to filter through a 100,000 datasets. But I think that if it's not well laid out and it's not  
+easily searchable and it doesn't give you the answers that you're looking for then personally, I do  
+see something where you have 10,000 of results to be too unwieldy to work with. That's just my  
+opinion. though 
+Interviewer 3: That's just your opinion. Yeah. Kind of see as like a Goldilocks situation, right?  
+Participant 5: Right. I mean, you don't want to be totally overwhelmed by your, your data search. 
+And I think that's what makes something like Google so effective, right? Because you do see  
+millions of responses for whatever you type into Google, but it's very effective at finding the  
+ones that are most relevant to what it is that you're actually looking for. So, you know, typically 
+
+you're going to find what you want on the first page, maybe the second page. You're not going to 
+be digging through page 15 on Google to find to find the relevant sources",Desired Repository Features,Number of Datasets in Repository,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0108,"And a second feature is you  
+allow to share that data to or you can assign different privileges to different users. So you can 
+
+allow some users to upload data to that data resource you upload or you can allow, you can allow 
+some users to only view or download that data. Does that make sense? Just like a  
+Dropbox. Some people can only view, some people can view and download or edit",Desired Repository Features,Security,Different User Privileges,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0109,"Yeah, because by doing that, that just makes that data repository more  
+useful. Because by doing that, you can use that data repository actually even in stage one  
+when you are doing data analysis, when you want to share with your collaborator from the other  
+side of the earth. I guess and - I guess this is one way just to make that data repository more  
+useful",Desired Repository Features,Security,Different User Privileges,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0110,"I  
+think as far as DMPs go, there's also sort of a, maybe an outstanding issue in the, especially this  
+is mostly comes up in agriculture because the work that's being done is so closely tied to the  
+farmers that are actually producing the crops. And you know, a lot of times when we collect data  
+in the field, we end up collecting data that is, if not explicitly, it's arguably private data, personal  
+data. And so it’s this type of stuff that you don't really want to put out there without explicit  
+permission from the farmer. And that's anything really in my opinion, that can be tracked back to 
+the original farmers. So, things like yields or the types of fertilizer that they used or the strain of  
+crop. That's all stuff that a lot of times farmers aren't really comfortable sharing. And I think that  
+if you take that data and you were to put it online and they see that, you know, you put it out  
+there. That can lead to distrust. And that's especially a problem for us on the [redacted – a  
+government agency] because a lot of these farmers, they, they don't really trust the federal  
+government, so they don't want that data in, you know, something labeled with anything with a  
+federal agency attached to it. So those are instances where, you know, I wrote the DMP five- 
+years ago, I don't remember exactly what was in the DMP. But I think that might be a case where 
+we're not able to really provide everything that we collect to the public just because there's  
+privacy issues involved with it.",Desired Repository Features,Security,Privacy Concerns for Identifiable Data,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0111,"So, I think that's a really kind of, you know, a key issue that you have to deal with there. So if  
+you're going to do any sort of cloud storage of data and data repositories, then I think it's really  
+important that those efforts be very well-funded to make sure that there is longevity there.",Desired Repository Features,Stable Infrastructure,Commitment to Future and Funding,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0112,"And, when I say good, what I mean by good is that the program or whatever tools you build to  
+access that data, they should be stable over a long period of time. And I'm talking like a decade  
+or more. And that's something that's incredibly difficult to do. And it's sort of a problem with a  
+lot of the software is being developed now is that things are being developed rapidly. There's sort 
+of this move fast and break things mantra where it's okay to tear it down and rebuild it and then  
+just have everyone adapt to it. But I think when we're talking about accessing data, that's not a  
+good approach. I think stability is much more important. And [redacted – a government agency]  
+is sort of guilty of changing the, the basic tools for assessing their data all the time. There's basic  
+data processing tools where the command that you ran years ago doesn't work anymore, just does 
+something completely different. And that's why for some of the stuff we do, we, we rely on  
+pieces of code that I wrote 14 years ago running on the same FORTRAN libraries that we carried 
+over from port. I mean, do I look like a guy who should've been reading code 14 years ago that's  
+still running today. It's, you know, it's necessity. It's stuff I wrote when I was 17 just because that 
+was the stuff that worked back then. And when you try to update the workflow, something, it's  
+operational, you don't want to have a change in the code that you're using to access the data lead  
+to a difference in the result. So, if they update the data and all of a sudden you've added the  
+number five to every entry in the dataset, then you have a systematic shift in your data that is  
+really got nothing to do with the data itself. It's got something to do with the library used to  
+extract the data. So I think good stable APIs are really kind of key to having a really good data  
+repository",Desired Repository Features,Stable Infrastructure,Long-Term Accessibility/Operability of Files,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0113,"And I think that's very important from a scientific perspective, that, that data  
+continues to be available even long after it's no longer being produced. That it's been deprecated.",Desired Repository Features,Stable Infrastructure,Long-Term Accessibility/Operability of Files,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0114,"I think at the very least you need to handle the data in  
+sort of, you know, open or atomic formats, things that people use so that you at least know that  
+the format that you're distributing the data in is going to be stable over time. So, for us, with the  
+statistical and numerical analysis that we do that means things that are available through like  
+NumPy or Pandas packages, if you're doing other types of statistics, maybe something like a 
+
+CSV file is okay because they've been around forever and they're probably going to be around  
+for a while more. But making sure that the tools don't change in a way that causes the data to be  
+unusable, I think is the key.",Desired Repository Features,Stable Infrastructure,Open File Formats,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0115,"eah,  
+we're constantly evolving our user interfaces.",Desired Repository Features,User-Friendly Interface,,RQ5
+Atmospheric_Earth_Sciences_Transcription,Atmospheric_Earth_Sciences_Transcription_c0116,hould be easy to use and easy to submit data,Desired Repository Features,User-Friendly Interface,,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0001,"Secondly, it's possible to automate the extraction of this metadata from the original raw  
+data using an appropriate program. So we're not expecting the users to actually extract any of  
+this. Essentially they’ll just flow a program past instrumental data.",Data Management Areas in Need of Help,Automation,,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0002,"So, it's the recommendations in this latter category of the core, instrumental metadata,  
+which can be automated that impose relatively little overhead on the people who collected it.  
+And they don't necessarily even have to understand it. They just incorporate it into their  
+workflow. But it's a matter of tens of seconds to do so maybe rather than tens of minutes or  
+hours. So wherever possible, metadata should be automated.",Data Management Areas in Need of Help,Automation,,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0003,"Yeah, absolutely agreed.",Data Management Areas in Need of Help,Automation,,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0004,"[Participant 3] also touched  
+on something important with his metadata concerns. That is one of the biggest concerns we have  
+because we're a user facility, how much and what kind of metadata should be captured. And  
+because we're working with users, how much and what kind of metadata should we ask users to,  
+to, to actually capture? And can they do so in a convenient way? If we're asking them to do  
+several additional hours of data capture and stewardship. They're not going to want to do it. Is it  
+even important to do it in the first place? These are kind of almost philosophical questions in a  
+sense, and questions of practicality. In mass spectrometry my field, we often, while I work  
+mostly in biochemistry, biological applications of mass spectrometry. And we frequently use  
+consumable materials that we do not track persistently in any meaningful way, which ultimately  
+get thrown away. So are we going to, to track that as metadata? Well no, it would be impractical  
+to do so, in some cases, but in others it might. So it just has to be decided on a case-by-case basis 
+for us personally.",Data Management Areas in Need of Help,Data Quality Control,Metadata,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0005,"As far as, sorry, data formats, the formats are  
+widely varied and domain-specific. But there aren't even necessarily standardized formats within  
+those domains, which is a problem that we face.",Data Management Areas in Need of Help,Data Quality Control,Standardized Data Formats,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0006,"I'm I, I certainly understand what you say about mass spectrometry and the fact  
+that the instrument manufacturers tend to control the formats are often quite closed. Even with  
+new instruments, they tend to invent new things. Interoperability between one instrument and  
+other instruments in nature, it's a bit of a nightmare and exactly for that reason, we've kept well  
+away from mass spec as being one of the difficult problems. It's much, much simpler nuclear 
+
+magnetic resonance because there's only three manufacturers as such. And there's a long history  
+of kind of standardized formats called JCAMP, et cetera, which is perhaps a bit out of date  
+nowadays, but, but nevertheless it sets a hell of a more tractable problem. So, so from, from my  
+point of view, I do a lot of NMR spectroscopy.",Data Management Areas in Need of Help,Data Quality Control,Standardized Data Formats,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0007,"And unfortunately, we have no practical means of enforcement. So this is a  
+problem that we're going to start running into in the near future. I believe, where we want users  
+do something, we have no way to compel them. And we just kinda have to politely ask and hope. 
+And that's actually my specific job, is going to be, I think, politely asking and hoping, but, but  
+not actually being able to do anything about it.",Data Management Areas in Need of Help,Means of Enforcement of DMP,,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0008,"And the trouble was that once he'd visited pretty much  
+everybody in the college, and they'd all faithfully promise to create an RDM plan. And he  
+couldn't quite figure out what else to do, and so he left. And now on our third generation of  
+research data manager, who was probably revisiting all those departments again and again,  
+reminding them. But trouble with research data management plans is that you produce some nice 
+sounding words that tick all the boxes, and then you never look at it again. You might do 3-4  
+years of a PhD or whatever. And you never really revisit it, and you never really compare your  
+plan with what you actually do in practice.",Data Management Areas in Need of Help,Means of Enforcement of DMP,,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0009,"One of the big problems we have  
+however, is that for a lot of our user facilities, the users and the staff there either don't know of  
+any repositories for their particular kind of data or they simply do not exist. I think EMR electron 
+magnetic resonance was having that issue. Perhaps the databases that are out there, they're just  
+not widely used. So yeah, that's an issue we have, but yes, I do use repositories as often as  
+possible.",Data Management Areas in Need of Help,Training,Information Training,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0010,"But we didn't have an organized person doing it. I  
+think probably at least chem-informatics, I don't know about informatics more broadly. Would  
+be well-served to be better trained in that. I shouldn't have had to learn it on my own.",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0011,"Yeah, we have a lab wide data management plan for the entire [redacted] Lab. But  
+then we also have facility-specific data management plans. Because you can imagine, with all the 
+different kinds of research, there's no way to have one data management plan that covers every  
+facility unless it was 25 pages long. And then no one would read it. And it will contain a lot of  
+information that would be useless to almost everyone. The second part of that question was kind  
+of what do you do with data after it's collected? Well, that also varies by facility. For some  
+facilities, the user takes their data and leaves and then we don't retain a copy of it. That's a  
+practice that we're trying to end. For other facilities like ICR, we keep a copy of every bit of data  
+that's generated using our instruments.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0012,"So the first question, if we have a data management plan: sort of. so [redacted -  
+government laboratory] that a couple of years went through a reorganization. And data  
+management plan was part of our research proposals. So there was like, not really a box, but a  
+small description of what you want it to intend to do on the, to the data of the data. And  
+essentially, in theory, one could volunteer to have all the data made available.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0013,"What my group has done in practice is use two tools.  
+And I make that mandatory for all my students. The first is an electronic lab notebook. They  
+have to use that. That's basically their data management. And it's a specialized one in  
+computational chemistry. So every, every experiment they run, in a computational sense is  
+recorded by this electronic lab notebook. And the last action ELN can take is to when you press a 
+little button called Publish. And that generates the metadata using a workflow and sends it off to  
+a second tool called the institutional repository. And it assigns a DOI. The metadata is registered  
+with DataCite, and these DOIs are then cited in all publications, all PhD theses and all other  
+documents, in the PowerPoint presentations, you name it. So that is essentially the data plan that  
+I urge my students to do.. Very simple, use this ELN. And when you think you've got a decent  
+result, click on the Publish button. If you're not sure you got a decent result, keep it just in case.  
+If you're pretty sure you've got rubbish, delete it. And about half what they run gets deleted.  
+About a half of what remains gets published in the repository. And the other remaining quarter,  
+they keep it just in case three or four years time they need to show their PhD examiner something 
+that the examiner has asked for some evidence. They did a calculation, but perhaps that didn't  
+make it into their thesis or dissertation, et cetera. So in other words, our data management plan is 
+very simple. Item number one, use ELN and item number two publish the relevant results to the  
+data repository. Item number 3 site the DOI in all publications. And it doesn't have to be, in my  
+sense, more detailed than that. And that probably doesn't need updating on a regular basis and  
+probably covers most of what needs doing. So I'm no great fan of data management plans  
+provided you keep them as simple as I've just said it.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0014,"So we've gone from having hard copies of everything to everything being  
+electronic. So the university has stores a lot of the spectral files for us, although students  
+download those to the computer as well.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0015,"Yeah, Again, we store the data on the computer, back it up on a flash drive and  
+then back it up again on a university drive. So things are safe in case anything crashes down the  
+way. But trying to keep multiple copies just to be safe.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0016,"So at my current position, we have a kind of, I guess, pretty rigorous data  
+management plan. All of our experimental notebooks. They're kind of a hybrid physical-digital.  
+So they're called Rocket books. And essentially, it's like a mini whiteboard that you can - there’s  
+an app on your phone and computer that you - it does a good job scanning and transcribing it  
+automatically and you can have an upload to multiple places. So for instance, for me it goes to  
+my phone and our university g-mail. And we're also expected and we also use Slack, so it gets  
+sent to a Slack channel that our supervisor has access to. So he doesn't physically have to come  
+in and look at the notebooks. And we're also expected to put it on our group server. And there's a 
+specific format of how things are supposed to be put in a grouped server. And that goes for all of  
+our experimental and computational data. There's a specific way we're supposed to put it in there. 
+So yeah, multiple backups of everything in multiple places.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0017,"Okay. Well, we follow NSF guidelines on data management. And so one of the  
+things I'd like to add is they require, if, uh, if an instrument has a login, they require that every  
+student has an individual login. That's something that we went through in the past year to make  
+sure that we were following that rule. I'm a former NSF National Science Foundation program  
+officer. So I was schooled in this in the earlier part of the decade. And if there's an audit and they 
+find things like you're not having individual logins and you're not doubling backing up the data.  
+This can lead to some pretty serious problems, all the way up to federal funds being frozen for  
+your institution. So we take it pretty seriously and we work with all of our staff to make sure that 
+they're serving the students properly in this regard. But also that we provide places to store the  
+data .So the students have them on their computers and then there's a backup that's done. I  
+believe every evening. There's a backup. So we correlate that with our IT services people on  
+campus. And so this is something that just in the past three or four years, we've started to take  
+very, very seriously on our campus. How and where and when we store and back up the data.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0018,"What my group has done in practice is use two tools.  
+And I make that mandatory for all my students. The first is an electronic lab notebook. They  
+have to use that. That's basically their data management. And it's a specialized one in  
+computational chemistry. So every, every experiment they run, in a computational sense is  
+recorded by this electronic lab notebook. And the last action ELN can take is to when you press a 
+little button called Publish. And that generates the metadata using a workflow and sends it off to  
+a second tool called the institutional repository.",Data Practices,Storage of Data,Uses DMP,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0019,"And that generates the metadata using a workflow and sends it off to  
+a second tool called the institutional repository.",Data Practices,Storage of Data,Uses IR,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0020,"And so on. And, um, just to  
+go back to the question that I realized that not through my first response, the size of NMR data is 
+anywhere between 10 and 100 megabytes. So it's pretty small. And that's the raw data, the 
+
+processed data where you've thrown away the imaginary component of the Fourier transform and 
+all sorts of other things is much, much smaller than that",Data Practices,Typical File Size,< 1 Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0021,"But in my line of 
+work, It's very rarely more than 500 megabytes, It's very rarely. So again, we're kind of lucky  
+that there are areas of chemistry where storage is not considered a problem, and therefore  
+throwing anything away is considered a sin.",Data Practices,Typical File Size,< 1 Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0022,"Again, typically the spectra are two-dimensional ascii arrays. File sizes range from  
+anywhere from 1 k for a very simple low resolution spectrum up to half a meg [megabyte] or so  
+for something more complicated. So, but in general, I think what you're going to hear from  
+chemists is spectroscopic data.",Data Practices,Typical File Size,< 1 Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0023,"And we can have some files that are a 100 megabytes for an output  
+file, which basically is a transcript of the entire calculation.",Data Practices,Typical File Size,< 1 Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0024,"But for the, for a dense measurement that we do,  
+that, that goes to the many gigabytes, something that we actually can't really store all of them.",Data Practices,Typical File Size,>100Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0025,"And so the  
+conventional probes doesn't capture the thermal expansion dynamic. Essentially the sample, you  
+just get, [it] is not fast enough to react to that just kicked into oscillation. With some special  
+probes that we make, instead, we can follow the thermal expansion dynamics. That is convoluted 
+with also the oscillation. And so we record those traces as a function of time. And so then,  
+because we have high temporal resolution, we digitize each single pulse at 500 gigabits per  
+second. And so when we started doing that, the data gets untreatable.",Data Practices,Typical File Size,>100Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0026,"And so all the data then we get are typically average even in that case. And even  
+average in say a 1000 pulses, then you get gigabyte of data.",Data Practices,Typical File Size,1-5 Gb,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0027,"And it can be on the order of many gigabytes for a single dataset. Or it can be  
+just a single spectrum of just a 100 kilobytes. So we have many different orders of magnitude for 
+our datasets. In other facilities like the dc field facility. The main product of the data or data  
+collection might be something simple like a small plain text file of just a few dozens of kilobytes. 
+So ICR definitely,, my department, definitely has the largest data storage requirements by far.  
+But it does vary greatly between departments.",Data Practices,Typical File Size,Large Variance,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0028,"So typical size is several tens of  
+megabytes for conventional measurements. But for the, for a dense measurement that we do,  
+that, that goes to the many gigabytes, something that we actually can't really store all of them.",Data Practices,Typical File Size,Large Variance,RQ2
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0029,"I don't know. As I said, my datasets are quite specialized. I'm, I'm a bit concerned  
+about the burden that will be added to the I would say postdocs are the PI to ensure that  
+everything is recorded properly.",Perceptions of Librarians,No Role for Librarians in Data Management,Data Too Technical,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0030,"The, the other  
+general concern that I have and I don't know, this is mostly something to think about it. If I take  
+infrared spectrum, this is a very common set, somewhat like NMR, where you have gigantic  
+datasets. So infrared spectra, you have very useful infrared databases. And essentially the  
+spectrum. If the sample is prepared, according to a good procedure, is essentially a measurement  
+of the imaginary part of refractive index. And then you use all those peaks for, for recognizing  
+chemical groups or other things. And you can identify material in comparison to an infrared  
+spectrum database. However, if the sample is not prepare very well, especially when you look at  
+the microscopy, when you have a roughness and features that are comparable to the wavelength,  
+then you start to have a spectra that depends on the real imaginary part of the refractive index. Or 
+if you want structure and chemistry, not only chemistry that this information you typically want,  
+you get spectra distortion, spectral shifts. And often when you look at the literature, then you see  
+many spectra and the position of the peaks are kind of varying, hopefully not too much because  
+everybody should prepare their sample correctly. But then the experiment is what it is and it's  
+correct. But for the interpretation that we need is not necessarily the spectrum that we want. And  
+so those aspects from, from my really kind of in your own perspective on the, on the data visual  
+accessibility of the data. Those worry me so how is a PI to insure that when I was not in the lab,  
+that those spectrum, for example, was acquired, by preparing the sample exactly as it should. Or  
+maybe that time there was something a little different and so on. So those are some of the  
+challenges that I think a very technique dependent. Now not every technique would be like that.",Perceptions of Librarians,No Role for Librarians in Data Management,Data Too Technical,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0031,"So at [redacted] our librarians are being stretched pretty thin, to be honest. So I  
+don't think that they necessarily have a role in this because they're being thinned out and asked to 
+have more of the traditional type of a role. So as opposed to things being easier as we move to  
+electronics, it's actually more complicated, I think for them, because they're being asked to  
+manage library work in more, more disciplines. And they're doing things like introducing people  
+to new software for searches and things along those lines. But in terms of keeping up with the  
+regulations and data management, we just don't have the personnel for that.",Perceptions of Librarians,No Role for Librarians in Data Management,Stretched too Thin Already,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0032,"As to reiterate what [Participant 6] said. They're  
+understaffed. They're definitely overworked. If you get their time, you get value for your  
+investment. But we don't have enough people working in information science who can help us  
+track down data. The amount of information, as you know, in the last decade or 15 years now,  
+it's grown exponentially.",Perceptions of Librarians,No Role for Librarians in Data Management,Stretched too Thin Already,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0033,"The 
+Research Data Manager was a librarian. But in the new role and apart from training people to  
+produce a research data management plan, kind of, sort of struggled to find quite what else to do.",Perceptions of Librarians,Role for Librarians in Data Management,Crafting DMPs,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0034,"And while at  
+[redacted – a university], we had a really great, We've had a lot of great chemistry librarians,  
+some of which were in basically my sub-field. So they always had lots of interesting  
+recommendations. Yeah, I think probably most groups should, or PIs should meet with the  
+librarian and just kind of get up to speed on good data management practices. As you don't want  
+to be in a situation where yes, students leave and you don't have all the data, you don't have a  
+plan in place for example.",Perceptions of Librarians,Role for Librarians in Data Management,Data Management,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0035,"Yes, I  
+believe the librarians have a role to play. We had well, the [redacted] Lab works with the host  
+institution, which is [redacted - their university]. So I've been in discussions with the [redacted -  
+their university] Libraries and their librarians about what role they might be able to play. But it's  
+still a bit unclear to me right now. My feeling is that there's a role to play, but I'm not sure  
+exactly what the mechanism for that would be yet.",Perceptions of Librarians,Role for Librarians in Data Management,Do Not Know Specific Role Yet,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0036,"And that's mostly what our people do now is just help our students find information. We don't  
+generate a lot of data overall. we’re again a small university in that regard. But most of our  
+library people are helping train our students on how to use all types of [background noise] to find 
+information.",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0037,"But in fact, a lot of the  
+work I do -did and do- involves literature searching, where we use mostly free tools because I  
+now, I now have a pretty full foot in the academic world as well industrial world because of  
+being an Emeritus Fellow at a, at a private company, but an adjunct at [redacted] and I'm  
+becoming more active at [redacted]. [redacted] provides a lot of library resources to me for that,  
+for researching work because I need - we, we built a lot of models for physical properties and,  
+and metabolic properties and toxicity properties to relate chemical structure all of those things.  
+But to do those things, you need to collect the results and almost all those experimental results  
+are buried in literature. Okay, so interaction with the librarians is primarily been with other  
+people's librarians [And] is, is in helping to do, helping to do searches. In the past, especially at  
+[redacted – a private company], was help doing literature, patents switches, which involves text  
+and, and structure. Actually I sort of had a role at both - at [redacted – private company] and at  
+[redacted – private company] as a, as a sort of librarian and helping people learn how to do  
+literature searches to find information they needed.",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0038,"Well, as [Participant 7] has let us all know that there are lots of  
+government mandated requirements that I didn't know all about. So I'm sure a librarian would  
+also be on the up and up and could help me comply with some of these regulations.",Perceptions of Librarians,Role for Librarians in Data Management,Keep Up with Government Mandates/Requirements,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0039,"They did also actually fall to  
+me to do a lot of the work on - which usually you don’t have to worry about it at universities - of  
+whether we had the right to use the data that we found. And that because of accidents of history  
+and my involvement with writing patents, that mostly I'm fine to me. Recently we had - by an  
+acquisition- we acquired a lawyer to advise us on that, unfortunately it’s not really his specialty.  
+So it's not always terribly helpful. It would be more helpful if we had a librarian who was well- 
+versed specifically in that area. As it, as it, as involves open access.",Perceptions of Librarians,Role for Librarians in Data Management,Patent Writing/Searching,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0040,"So we were running an institutional repository and we could publish - the button - and it will get  
+published to the world. And the RDM managers, and current name is [redacted], said we can’t  
+let you do that. We're going to have to do is add a layer between you pressing the Publish button  
+and the world seeing the data. And that layer will be provided by myself. And I will authorize the 
+release of that data to make sure that nothing is being published, that shouldn't be published. So I 
+asked him what sort of data might that be? And he said, well, if it’s medical data, I want to make  
+sure that all personal information is removed from it. I asked well, how are you going to go about
+
+checking that? Are you going to inspect every single data set? [redacted] I was still reluctant  
+because I wasn't sure what toolkit, he'd have to make a reasonable decision other than to contact  
+the depositors. An ask them some questions, which is a very time intensive procedure.",Perceptions of Librarians,Role for Librarians in Data Management,Review Sensitive Information,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0041,"It's impossible for one person to keep track of it. And so we have this problem now I think of  
+information overload. And that needs to be addressed and needs to be addressed by libraries in  
+particular, because they are the holders of the information they are supposed to provide relevance
+
+for us. All right, so it's a big challenge.",Perceptions of Librarians,Should Tackle Information Overload first,,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0042,"So I'm undecided, well, that's a genuine role for a librarian in the future or not.  
+Largely because I don't think they can actually fulfill it in any meaningful sense. Apart from  
+having one-to-one conversations with the depositor, which which cut it doesn't scale very well.  
+On the other hand, if you're trying to create jobs and it's a bit like Google. Vetting, Google has  
+like 10 thousand people moderating content or something like that. I mean, you can do it with  
+google but you can’t do it at university, sorry, carry on.",Perceptions of Librarians,Undecided,,RQ3
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0043,"eah. I'm, uh,  
+I'm the recently hired FAIR Data Management Specialist at the [redacted].",Awareness of FAIR,Aware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0044,"So that's one of the lessons you  
+learn about FAIR, is that it's got to be sufficiently well-defined and correct that the machine  
+could act upon it in a relatively unsupervised fashion as well as a human.",Awareness of FAIR,Aware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0045,"Yeah, I've I've almost painfully aware of FAIR  
+because working in commercial software companies.",Awareness of FAIR,Aware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0046,"Open access, I don’t know if  
+you're familiar but open access literature and open access code.",Awareness of FAIR,Aware of Other Principles,Open Access,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0047,"I think it should be exploitable as well as  
+reuseable. So that's another, another stage because, and that is a potential problem with FAIR.  
+Because most of the FAIR does not allow exploits actually, except in very fuzzy legal terms,  
+which effectively makes it, if you're at all large company, you can’t afford the risk.",Awareness of FAIR,Problems with FAIR,Lack of Expoitability with FAIR,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0048,"Oh, to use data - for example, my company gets, collects data from public  
+literature, curates it, thereby adding value to it. Uses the curated data to build a model that we  
+then sell. Okay? Much of the data that is published under a Commons license. You cannot do  
+that, or it's, it's not clear that you can do that. Which effectively means that you can't do it. And 
+
+that is unfortunate because it can deprive - my models would be better for the people that use  
+them. And we, we sell licenses to academics at 90% of what we do. And in fact, if somebody is  
+going to publish work derived from our software and using our models, then we give it to him  
+free in many cases, most cases.",Awareness of FAIR,Problems with FAIR,Lack of Expoitability with FAIR,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0049,"So, so I mean, I'm in favor all in favor of  
+reuse and, and discoverability. As long as those come with exploitability. Because right now  
+there tends to be a notion of, well, Yeah, You can use my data, but it's still my data and I've sort  
+of own the product because you have to, umm, you can't sell. Okay? And that's not really sharing 
+it to my mind.",Awareness of FAIR,Problems with FAIR,Lack of Expoitability with FAIR,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0050,"So my concerns are, is this, I understand the reasoning, but is this a big effort for nothing? Or,  
+and this is something that we have been discussing with my colleagues and said, “Did anybody  
+ever asked you for any dataset or details of the analysis?” And we pretty much the answer has  
+always been no.",Awareness of FAIR,Problems with FAIR,Too Much Emphasis on All Data Being Open,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0051,"And so one of the question that I have, because I'm really not very familiar with this  
+FAIR data.",Awareness of FAIR,Unaware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0052,"I've never heard of that before, but so with regards to access the data",Awareness of FAIR,Unaware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0053,"I have not heard of FAIR, but that's sounds great for my computational stuff I do  
+always try to basically be as easily accessible and usable as possible.",Awareness of FAIR,Unaware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0054,"No, I don't know of FAIR",Awareness of FAIR,Unaware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0055,"Well, no, I have not heard of it",Awareness of FAIR,Unaware of FAIR,,RQ4
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0056,"We go out  
+and we comb literature for data. We combine that data and we use it to build a model that we  
+then distribute. Problem is, if you, if there's mistakes in the data, there'll be mistakes in the model 
+that the user won't know about. And they're trusting us. So we carefully curate the data we get.  
+Checking to make sure that the structures are correct, stretched, making sure that the way the  
+data was handled was consistent. And to make sure they didn't make a mistake in the way they  
+did their procedures and how they interpreted things. That's getting to be a lost habit. You people 
+don't do that. They just take the data from the, from the database. Whether even commercial  
+databases have about a temporary 10 to 20 percent error rate. Publications have a similar error  
+rate. And with the model-building methods they have now, which are very, very powerful, it will 
+learn all the biases in your data. And that's a bad thing.",Desired Repository Features,Data Curation,,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0057,"Perhaps I'm biased, but I'm I'm not I'm - I have very mixed feelings. I really see the 
+value of proprietary license - proprietary databases, because my experience is that that 90% of  
+the data is easy to curate. 90% of the effort goes into the other 10%. And if you make it so there  
+are no cost to accessing the data. Either cost to, you know, if you're an academic to your grant or  
+to a company, then there's a loss - in my experience - there is a loss in quality to the data you  
+have. So I don't think there, I think it's important to have licenses. Hopefully as a group, we can  
+do the discipline thing of appreciate it, of not letting, having free access to the 90 percent stop us  
+from getting the 10 the other 10 percent and make it impossible for it to be economically viable  
+for somebody else to provide that other 10 percent. Because realistically when you have a  
+database, it's, it's 10 percent of the data is justifying the cost of a proprietary database.  
+Somewhere between 1, 10%. Does that make sense? I'm going to go with mixed too, or yes and  
+no, it could be even worse.",Desired Repository Features,Data Licenses,Both/All,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0058,"Yeah. I mean, I guess personally as somebody who wants to move to using Linux  
+full-time and stuff like that. You know, I’m into like free open source stuff, but I understand that  
+for something like this. Like [Participant 8] mentioned, there can be complications. For me. I'm  
+an academic user, as long as everything allows me to do all my academic stuff, it doesn't really  
+impact me, right? But I, I guess I understand that, that's not necessarily the case for everybody. 
+
+And it's easy for me to want everything to be free and open-source. But I don't want to be the one 
+dealing with the database and curating and updating. So somebody's got to do the work and pay  
+for it. And that happens somehow. So I guess it's complicated.",Desired Repository Features,Data Licenses,Both/All,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0059,"Well, at the end of the day, the piper has to be paid, right? It's not cheap to run  
+servers. It's not cheap to keep them up-to-date.",Desired Repository Features,Data Licenses,Both/All,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0060,"We just attach CC 0, which is  
+unrestricted",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0061,"Licenses can get a bit complicated. I think that licenses are often misused a bit. CC 
+0 is kind of just free use public domain. So that makes sense for pretty much any kind of content. 
+But sometimes people use licenses that's intended, that are intended more for creative works, for  
+things like datasets",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0062,But a lot of data has CC-BY 4.0 Non-commercial use often.,Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0063,"It's the hope that the Commons license 
+that the and I'm drawing a blank, part of the reason I retired, I draw too many blanks. I'm the new 
+type licenses. They were originally put out for open access. Make it really difficult to use open- 
+source. So the, the free part is, in my world is not completely free. Which isn't surprising,it  
+comes with obligations, which isn't explicit in the name, but it's true. And that you you cannot,  
+with the original licenses, you could not make a profit off of it. N",Desired Repository Features,Data Licenses,Creative Commons,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0064,"and that creates a little bit of confusion. Or they use licenses which are intended for 
+software development for data sets. So there needs to be, kind of, a more widespread and clear  
+understanding of what a license is, what the kinds of licenses are, and how they should be used.  
+But they do have a role to play because you need to make it clear to people that you're allowed to 
+use the data in specific ways and you may or may not specifically need to provide attribution.  
+That's why they exist in the first place.",Desired Repository Features,Data Licenses,Licenses Often Used Improperly,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0065,"We also include  
+clear declaration of the CC 0 license. So a machine could also identify that there are no 
+
+restrictions in this data.",Desired Repository Features,Data Licenses,Machine Readability of Licenses,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0066,"Perhaps I'm biased, but I'm I'm not I'm - I have very mixed feelings. I really see the 
+value of proprietary license - proprietary databases, because my experience is that that 90% of  
+the data is easy to curate. 90% of the effort goes into the other 10%. And if you make it so there  
+are no cost to accessing the data. Either cost to, you know, if you're an academic to your grant or  
+to a company, then there's a loss - in my experience - there is a loss in quality to the data you  
+have. So I don't think there, I think it's important to have licenses. Hopefully as a group, we can  
+do the discipline thing of appreciate it, of not letting, having free access to the 90 percent stop us  
+from getting the 10 the other 10 percent and make it impossible for it to be economically viable  
+for somebody else to provide that other 10 percent. Because realistically when you have a  
+database, it's, it's 10 percent of the data is justifying the cost of a proprietary database.  
+Somewhere between 1, 10%. Does that make sense? I'm going to go with mixed too, or yes and  
+no, it could be even worse.",Desired Repository Features,Data Licenses,Proprietary,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0067,"There is no mechanism for me to let people who want to reuse that original data  
+know that",Desired Repository Features,Data Traceability,Notifications,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0068,"But there's no way there's no mechanism for letting somebody know it goes 
+
+back to that original work.",Desired Repository Features,Data Traceability,Notifications,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0069,"But the flip side of that is that I think I'm I'm in favor of  
+recovering who - recording who accesses and who who accesses data. Because I also do a lot of  
+work reviewing for journals. And I can tell you there's a lot of data piracy that goes on for  
+publication. This, this gets back to the predatory journals and the sorry, the paper mills that are  
+out there. And so I don't mind somebody reusing my data if I get credit for it. Not necessarily  
+monetary credit, but just acknowledgement that that's where the data came from. Most, most  
+cases there is no way to do that. With, for example, a supplementary information. The - if you  
+read the current thing that comes up when you try to download supplementary information from  
+ACS stuff. It has a thing in there about you have to do this responsibly and appropriately. And if  
+you’re gonna use this data, you are obliged to acknowledge where you got it from. But that's -  
+that has no teeth. There's no discoverability. And I think it's a good idea to just record who  
+accesses data so that you can find that out because there are unscrupulous people and people  
+under tremendous pressure. And at certain parts of the world, in academia, some, some places,  
+the United States, who will not do that. Okay? And some of the papers I review, I am 99% sure  
+that these people have gotten the data from the literature and are not acknowledging that, they  
+just reproducing because they were able to download it completely. Often, I can tell that because  
+I know the essays being used to assign to those numbers. And I know they are not that accurate.  
+That is it. Yeah, it's plus or minus something. And it's like .02. That's the cell culture data and  
+cell culture data is not that reproducible and not that accurate. But there's no mechanism by  
+which I can track that right now. For example, you can’t take a set of numbers, ut in the  
+computer and go search. Tell me if these set of numbers appear someplace else. Especially not in 
+a fuzzy search. Because if the person's not stupid, they'll change a couple of the digits by 10  
+percent because it won't affect the models that you can rely on - the realisticness of the models  
+that you generate. So, so I, I think we reuse and, and discoverability are both great. But I think a  
+little bit a big brother to keep us honest. Emphasis at ALL, because there's not very many people  
+are bad actors. And unfortunately there's probably as many, as many lazy actors as there are bad  
+actors. We just don't think about making attribution.",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0070,"Because there's no mechanism for correcting for updates  
+that were done in the code that you were using. And, and, and, and it's very, very difficult to  
+write the code in such a way that it only links back to a specific version of the code. And often  
+the constraints on the code prevent you from actually keeping your own copy. And you often  
+want to keep it. You want to, you want to be using up-to-date code that's had correction space.",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0071,"The other virtue is,  
+which I run to practically is I've gone, I've written stuff that corrected mistakes in earlier versions 
+of my data. There is no mechanism for me to let people who want to reuse that original data  
+know that. And I have I have published corrections to other people's data where I got  
+acknowledged for doing that by the, by the people who I corrected, who often were good friends  
+of mine, actually. But there's no way there's no mechanism for letting somebody know it goes 
+
+back to that original work. No errors have been identified in the data. There's no reach forward.  
+So all the stuff that ought to be there, that's my input.",Desired Repository Features,Data Traceability,Versioning of Entities,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0072,"As for embargos, I think they're unavoidable. We do embargo stuff. We  
+have industrial collaborators and you have to float this stuff past them and their legal team before 
+you can publish it. So it's unavoidable. But at least the embargo has already reserved the DOI.  
+And it's already reserved the date stamp, but almost no other information. So the collaborator can 
+hardly complain. And then the embargo’s released and than the full metadata record is made  
+available. So there are circumstances where you have to have an embargo. Personally, I don't use 
+it, the embargo that is. My only fear being that I'll be scooped by some unscrupulous scientist  
+who nicks my data. But I'm actually not that worried, largely because although I might not have  
+an embargo, I do have a date stamp. And should it come to a confrontation, I can always point to  
+the date stamp and said, look, you know, this is my date stamp, what's yours? And if they have 
+
+stolen my data, their date stamp is always certainly going to be later than mine. So I'm quite  
+confident in that protection and I don't need more. But I understand if you have an industrial  
+collaborators, you might need embargos.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0073,"Yeah. So embargos are a weird thing. I have a former student of mine who's at a  
+small liberal arts college, and she has difficulty publishing papers before the student graduates. 
+
+It's very difficult for her. She has mostly undergraduates and masters students, and so they were  
+very often gone before the paper is published, but that person might have a master's thesis. So  
+she has to argue for an embargo on the thesis because she doesn't want anybody to scoop that and 
+then publish a paper on it. That's ahead of her publication. All right. That's a useful embargo and  
+that's where I think it works. For other data. You could have patent protection that's involved.  
+And so you definitely want to have that embargo in that case. I tend to see it as a case-by-case  
+basis. Is it really necessary? For me if it's just a spectrum on some cerebral topic that I found  
+interesting. And I'm not going to file for a patent and the students graduated with a paper  
+published. I don't see a need for an embargo, so I think it's case dependent.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0074,"I guess it. But the - I don't feel comfortable telling somebody else that they can't  
+embargo something or they shouldn't. But I like to not embargo stuff. If I don't have to. I'm I'm in 
+that respect, I'm kind of happy with the change in the patent laws because there's less, less need  
+to embargo things now because as soon as it's published, It's published. You can file the patent,  
+you don't have to wait for it to be processed. You don't have to wait. There's not a 18 month  
+period before it gets published by the patent office. So sorry, I can't I can't give you a yes or no  
+on this one at all.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0075,"Right now we would like to get to a place where all of our
+
+users - well, first of all, users obviously have an interest in embargoing their data for a certain  
+amount of time because they want to be able to do a publication -we want to get to a place  
+where, where users are going to either publish on their data or make it publicly available within  
+some amount of time, usually about two to three years.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0076,"Yes, embargoes are inevitable. People often fear being scooped. I think they fear it  
+a bit too much. Like [Participant 1] said. If you have a date stamp showing that you uploaded a  
+dataset at a particular time or a preprint at a particular time.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0077,"Embargoes are  
+never going away. At least not for the near future because they are an important and well, well  
+used component of kind of the general procedure and philosophy of how research is done. But  
+ultimately, it would be nice if we could kind of de-emphasize them or get rid of them entirely.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0078,"yeah, I mean, I embargoed my thesis because I didn't know how long it was going to take to  
+finish up my last paper, which is the exact same situation kind of that [Participant 7] mentioned.  
+You know, I I guess, you know, why? If something is not published yet, you have to think about  
+if you are going to be, you know, why are you putting it up on the database? If it's not - if you  
+don't want it out there, I guess. I guess that's kind of self embargoing.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0079,No!,Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0080,"Well, it depends. I mean, I already talked about how large mass spectrometry data  
+can be. It gets even worse for some particular kinds of mass spectrometry data, like mass  
+spectrometry imaging data. So a mass spectrometry image can contain potentially millions of  
+spectra depending on the size. And it can take a 100 gigabytes for it for a single file. So what do  
+you do in cases like that? One of the issues we run into with Open Science Framework, which  
+we've tried to use; is that it does have a file size limitation unless you have an expensive  
+membership, which we don't currently have. And the main reason that we cannot use OSF for  
+most of our mass spectrometry data right now is because of those file size limits. So for my own  
+personal practical considerations, of course, I want to say no, there should be no file size limit.  
+But I realize why those limits exist in the first place. It's because of cost considerations and  
+infrastructure limitations. So this is something where I think the needs of the community and the  
+technological advancement are going to eventually come together and just eradicate the issue.  
+But in the meantime, I think we should ask repositories to consider all kinds of data that could be 
+uploaded and not put arbitrary file size limits in place that might exclude some, some users in  
+some communities.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0081,"Well, when we finally bit the bullet and designed own repository in 2016, we had  
+to come up with a decision. And just as a practical decision, that was one gigabyte. We soon  
+encountered two or three gigabyte datasets that we kinda massaged the problem away by heavily  
+compressing everything. But basically we think that, that in the area of chemistry that I’m  
+familiar with possibly 90-95% of the problems are handled by file sizes up to a gigabyte. And it's 
+the 5% that remains a specialist, 5% that aren’t handled. So in my own research areas, I've only  
+once come across a data set that exceeded a gigabyte. So now you can in principle, may be  
+sometimes contrived, split it into two halves and things like that. So so essentially not a problem  
+in our area. Ninety-nine point nine nine, nine percent of everything is handled by a gigabyte or  
+less. And, you know, but the people who generate larger amounts of data in our department  
+tended not to be interested in repositories. It's probably a chicken and egg. So they don't  
+complain about a gigabyte because they never tried to in the first place. So all they have their  
+own parochial solutions and they rely on if someone really wanted this data, they would drop me  
+an email and ask for it. Which is, you know, kind of the time honored way of dealing with data  
+that's too big to be processed any other way.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0082,"I don't know. I want them not to for my profiles I deposit and for files that I want  
+to find. But I am conscious because having run into the practical problems of that - my files, that  
+I'm depositing files that are not of interest to somebody else, it costs them something and the  
+searching, unless data repository takes that into account and provides way to do that, gets back to 
+the contingency and specificity. Think it's too easy. If there's too much data in a repository, it's 
+
+too easy to get too much data back. And then it's very, very difficult to sort through.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0083,"Well, a little bit of that of course depends on the cost of memory which keeps  
+shrinking. All right, and so there's always this temptation to add more to make files bigger. I  
+think just because, you know, when you can hold two terabytes in your hand, that would've taken 
+up a room 15 years ago, you see possibilities for loading it up. But at some point, it was  
+mentioned that there's kind of a degree of saturation, information saturation. And being able to  
+get less out rather than more. Focus. Narrowing things down gets harder. So I'm of mixed feeling 
+about that. I wouldn't answer yes or no. I would say kind of depends on the field. And can the  
+field accommodate large file sizes? Is it useful to the field to have large file sizes, to have more  
+information rather than less. One of the things that's great about the crystal, crystallography  
+databases. Those files are relatively small, but they pack a punch in terms of information. All  
+right, so, so maybe information density that comes out is the right parameter to look at.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0084,"Largely because it's automated. It's done by workflows. Whereas the other  
+subjects that use it, they don't really use workflows to generate the metadata.",Desired Repository Features,High Quality Metadata,Automated Metadata Creation,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0085,"So the more ways things can be categorized either automatically or by  
+the uploaders, that is really helpful.",Desired Repository Features,High Quality Metadata,Automated Metadata Creation,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0086,"And again just to finish, on one test of the metadata, is to try and contrive a search. What sort of  
+properties would you like the search to find. In NMR spectroscopy, you'd like to find the nucleus 
+that's being measured. You might want the solvent. You might want the type of experiment that's 
+being done; one-dimensional or two-dimensional, et cetera. Can you actually create a search?  
+Which limits the hits to the properties that you want. And even now, that's incredibly rare, that  
+you find good examples of successful searches. Now, I'd like to think the data that we've put are  
+very successful. And I've come up with about 20 or 30 such examples of our data, which  
+hopefully show how it can be searched. But if you try and do that for pretty much other data in  
+chemistry, you basically find that you don't find it. And that's almost entirely, because there is no 
+metadata which would enable the search to succeed. So my focus is very much persuading  
+people, not only when they publish, someday to purport to call it FAIR, that we encourage them  
+to make sure that their metadata is good enough that if they were interested in the same data,  
+they could, they could produce a search which would find it. And that kind of criteria is very  
+rarely imposed. I think you find very few people working in the FAIR area who come up with  
+useful searches, show that they [the searches] work, for the data a lot of people call FAIR",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0087,"So in 2016 we wrote our own and it was entirely metadata driven.  
+So really the whole repository was predicated on being able to search the metadata.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0088,"So that's where we  
+are now. We've gone through four generations of repository, gradually improving the metadata  
+and gradually improving search capabilities.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0089,"Well, for discoverability, we need a rich metadata, right? Well, that gets at the “F”, 
+the findability aspect of FAIR. So as long as, as long as we have rich metadata that we can  
+actively search to provide that findability.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0090,"That puts repositories in a role of providing search  
+tools, or the very least, providing things like APIs, which can be used to develop search tools. So 
+yeah, I think that would be the requirement for a repository, either make the tools available or  
+make the APIs for developing the tools available.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0091,"And what you can do there depends on how  
+rich a metadata record you submitted to either of them. And so if, if ultimately it's your data isn't  
+fundable, you have to improve your metadata record. It's as simple as that.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0092,"ou can, can do 
+fuzzy searching, which in which we really need to do because of uncertainty and errors in the  
+data.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0093,"Is that again, because I'd been on the side that did produce data - like the  
+greenhouse thing - is, it's often a challenge to get chemists - because a lot of the numbers that  
+chemists are familiar with, working with are very precise measurements. So if you say the signal, 
+is at Delta 2.312. They will believe that and they'll look for another signal at 2.312. Okay? But  
+that requires that your NMR is exactly right. And also that the solvent conditions are exactly the  
+same. And even the temperature can affect the position they are. Within a small amount, right?  
+But, but the difference between looking for things that match 2.3, 2.31, and 2.312 is huge when  
+you're looking at the 30 billion compounds, right? And so maybe that's a big opportunity for  
+informaticians in general to start focus, focusing in on the combination of uncertainty and  
+contingency. That is, I want to find this with a little wiggle room. I'm a little fuzzly about how  
+fuzzly is, is useful because that's not an intuitive thing and it's not natural to a chemist to, to think 
+about it that way because he, he goes to the same, right? When, when he's working in a lab, he  
+goes the same NMR machine every time. And so it actually won't come out be the fourth. The,  
+the- I don't think the third digit digit to the right, but the 2.31's pretty safe. Okay. He goes to  
+India. That may not be. Or even going across the street to a hospital, hospital, teaching hospital. 
+
+And that. And so for doing the searching, it becomes really - because I, I do a lot of actually  
+doing the searching, it becomes really important to, to combine multiple terms in a way that  
+effectively narrows the search instead of making it broader. Because when you, when you add in  
+the uncertainty part, than adding more terms doesn't necessarily make a search for specific.",Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0094,"That puts repositories in a role of providing search  
+tools, or the very least, providing things like APIs, which can be used to develop search tools. So 
+yeah, I think that would be the requirement for a repository, either make the tools available or  
+make the APIs for developing the tools available.",Desired Repository Features,Machine Readability Tools,,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0095,"Or which is kind of a human presentation of the metadata. And a lot of  
+people assume that the human will then navigate this landing page and find what it is they want.  
+A machine isn't interested in a landing page. It’s interested in the ORE Manifest, OMIPMH  
+Manifest. It doesn't care about the landing page. So I think that aspect has been forgotten about  
+by an awful lot of people and is much underused.",Desired Repository Features,Machine Readability Tools,,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0096,"We also include  
+clear declaration of the CC 0 license. So a machine could also identify that there are no 
+
+restrictions in this data.",Desired Repository Features,Machine Readability Tools,,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0097,"The interoperability is more of a challenge because the 
+semantics of interoperability are tough indeed, and a general machine implementation of  
+interoperability is probably still a few years away. You still need a human to interoperate most  
+data.",Desired Repository Features,Stable Infrastructure,Long-Term Accessibility/Operability of Files,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0098,"There's also a 
+responsibility with using somebody else's code and using somebody else's data, which means it is 
+incumbent upon you to check to see that it does what it's supposed to do and that the data is  
+consistent and correct before you pass it on. Because the more times it gets passed on, the harder  
+it is to find the mistakes. And I know from literature work that I did on the review for going  
+beyond reproducibility. That the interoperability is also getting to be a problem if there's  
+something like 20 percent of programs now that are uploaded will, not actually run when you try  
+to run them. Especially not after a year.",Desired Repository Features,Stable Infrastructure,Long-Term Accessibility/Operability of Files,RQ5
+Chemistry_Focus_Groups_Transcript,Chemistry_Focus_Groups_Transcript_c0099,"I mean, some people put up 
+their computational stuff in formats that you can’t even copy and paste from it. It's like a picture  
+of a PDF with atomic coordinates, and it's terrible. So yeah, for instance, I use some software  
+actually that generates supplementary information from calculations because I do think it's  
+important that other people can actually use the stuff you did for experimental work.",Desired Repository Features,Stable Infrastructure,Open File Formats,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0001,"think one thing that I've always 
+run into which is gets really, whenever, you create data are collected with an IRB, you always  
+have like a timestamp of like this is when it needs to be deleted or, you know, a decision has  
+been made of like what's going to happen with it. And I know that I have to plan ahead with the  
+thought in mind. Like, I need someone to have access to this data who will then know that they  
+need to delete it at a certain date to continue to follow kind of our IRB protocol and things like  
+that. And so I've had to add on people to projects that like I had to get them all. But many of the  
+PhD students in my lab are all also, they have IRB training and so on and so forth. So it's not too  
+much of a struggle, but it's also just like, hey so and so, like, okay, put a reminder on your  
+calendar on May 5th, 2025, you need to go ahead and go in and delete this work because I won't  
+need it anymore and I may not even be at [redacted] anymore and have access to do that.",Data Management Areas in Need of Help,Verifiable Data Deletion,,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0002,", I'm a staff member and not here just as a student. I  
+watch students come, I watch students go. Projects and project data is what's left behind in that  
+whole process. I also have been here long enough to watch the university switch from one data  
+storage system to another data storage system to another, or switch from one into two that they  
+can't decide between that whole thing. So, the thing that comes to mind for me, immediately, is if 
+you are bringing to the table some sort of long-term archive that won't get change, that won't  
+disappear, hat has some ability to give an instruction of what should happen with this data like  
+adds instruction to delete after x point, or to just keep forever and we just know it's safe there. No
+
+matter if we have two professors leave and three-page students graduate, that would be huge  
+because right now it is rather piecemeal, both at the individual researcher level but at the  
+university level as well. To some extent, it's not static.",Data Management Areas in Need of Help,Verifiable Data Deletion,,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0003,"So I'll jump in before [redacted]. So we have had our campus security officer sort  
+of get in the loop on certain types of data that we needed to guarantee would be deleted at a  
+certain point. But I think that's kinda hit or miss. We were going to have some, like human data  
+from the NIH and they required us to have all this kind of stuff. And so we have the campus  
+security officer with that.",Data Management Areas in Need of Help,Verifiable Data Deletion,,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0004,"Yeah, Most, of our work, because unless it's a really, really light or its prototyping, 
+if it's a real study, we have to have a data management plan as part of our IRB process. I mean,  
+it's just it's it's baked into the system and then yeah, you have to follow it. Otherwise, bad things  
+happen.",Data Practices,Storage of Data,Uses DMP,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0005,"So I'm kind of  
+working solo on a lot of the things that I do - so I do yeah, it being qualitative, I do have a lot of  
+IRBs that kind of go with those and data management plans that come along with that. So mostly 
+it's just storing it in whatever it gives me",Data Practices,Storage of Data,Uses DMP,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0006,"[Redacted - their university] does have some kind of large storage repository is  
+available. I don't have experience putting any private information on there. This is mainly the  
+[redacted – name of IR]. Databases I work with. I just kinda throw on there",Data Practices,Storage of Data,Uses IR,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0007,"So yeah, I've used it, but it's just kind of a a server, just shove data on it and then  
+grab onto needed. Nothing fancy.",Data Practices,Storage of Data,Uses IR,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0008,"And then for us, when we're ready to share any raw  
+data, GitHub is our primary resource",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0009,"And so we would send it out to our GitHub and then other people would have  
+access to that repository",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0010,"I can also second that. Everything we send out ends up on GitHub. That's where it  
+goes at the end",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0011,h [Participant 4] says GitHub for us too,Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0012,"I use Box at [redacted]. And now we've switched to  
+kinda either Google Drive or OneDrive.",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0013,"And I'll toss in just like OneDrive or Box is considered those repositories as well. I 
+guess that's how I would for that and that bucket as well.",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0014,"when you go to use Google Drive in the  
+back your head, you're always wondering what is being mined? What isn't being mined?",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0015,"But about data that could get scooped or  
+could get analyzed in a way that gives away to another, maybe a commercial interest rather than  
+research interests",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0016,"hat is  
+being shared somewhere that I can't see?",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0017,"but it can be anywhere from tens to hundreds of  
+gigabytes of sample passwords that I'm working with",Data Practices,Typical File Size,>100Gb,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0018,"The raw data that I didn't mention, which is just the raw  
+sequencing data from samples. So that could be gigabytes or terabytes",Data Practices,Typical File Size,>100Gb,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0019,"but it can be anywhere from tens to hundreds of  
+gigabytes of sample passwords that I'm working with",Data Practices,Typical File Size,Large Variance,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0020,"The raw data that I didn't mention, which is just the raw  
+sequencing data from samples. So that could be gigabytes or terabytes",Data Practices,Typical File Size,Large Variance,RQ2
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0021,"I mean, part of that is to like with IRB, like to be able to see my data, I have to  
+have access to it. As part of my management plan, you need to have IRB training and so on and  
+so forth, right? So like I could loop in someone from the library, but like I'd have to get them on  
+my IRB, get that part approved. They also have to have their training and their conflict of interest 
+forms all filled out and so on and so forth. So usually I just stick with the people that I know and  
+talk to you frequently and a new kind of folks within my research lab and that kind of stuff.So I  
+think that's something that's going to be happening.",Perceptions of Librarians,No Role for Librarians in Data Management,Too Much of Hassle to Get Involved with,RQ3
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0022,"That is something  
+I use and that was used in a lot of my user studies to make sure that storage was being done  
+according to IRB protocols. And honestly, it speeds things up a lot. So yeah, I've had experience  
+with that. That's sort of thing and that is something that we do use",Perceptions of Librarians,Role for Librarians in Data Management,Help with IRB Requirements,RQ3
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0023,"o we'd have something to say whether the  
+library assists with any of this.",Perceptions of Librarians,Role for Librarians in Data Management,Verify Data Deletion,RQ3
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0024,": I’ve heard of that acronym, but those are all things that we have to do.",Awareness of FAIR,Aware of FAIR,,RQ4
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0025,No.,Awareness of FAIR,Unaware of FAIR,,RQ4
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0026,Not at all,Awareness of FAIR,Unaware of FAIR,,RQ4
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0027,"So we're in the process of building an [redacted] CRC, which is Industry  
+University Cooperative, where universities are coming together and industry coming together in  
+that situation,there are certain licensing agreements that are part arrangement between  
+universities with each other and the universities with the industry partners. And sometimes  
+there's your Creative Commons or Spen Source. Sometimes they are not. And it's not always like 
+we're just picking one or the other and preference. It's what the situation or the partnership  
+dictates",Desired Repository Features,Data Licenses,Both/All,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0028,"Everything we've made  
+and put out is just public domain, no licensing.",Desired Repository Features,Data Licenses,No Licenses,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0029,"All my qualitative data, it's all confidential and I'm not looking to license any of it,  
+so.",Desired Repository Features,Data Licenses,No Licenses,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0030,"I generally, I mean, so my preference would be that if the article is published, the  
+data is as well. I think that's sort of just like good research ethics. My recollection is that NIH's  
+was maybe a year. Maybe you have to publish it within a year.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0031,"That's problematic to some of our data is obnoxiously huge. Yeah. When you're  
+dealing with three or four billion passwords that you're doing analytic data on the size is  
+obnoxious and then you end up with throughput problems that - say you put a file with a huge  
+amount of data in a repository",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0032,"eah. And the outside databases, it just depends. Like [redacted – a government  
+agency] seems to have unlimited funds or something. So it's not a problem there, but I mean, so  
+storage will sometimes dictate what you put out there.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0033,"So there'll be an ease of use component there, and then also clearly for any kind of  
+data like redundancy, recovery from errors and stuff like that.",Desired Repository Features,Frequent Back-Ups,,RQ5
+Computer_Science_Focus_Group_Transcript,Computer_Science_Focus_Group_Transcript_c0034,"So as was previously stated by several people, you need to have a feature for when  
+and how data is deleted and verifiably deleted",Desired Repository Features,Verifiable Data Deletion,,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0001,"And then people are like- ultimately their  
+anxiety that they were manifesting was- but what are the command and control mechanisms that  
+are in there? How am I going to know that someone used my data if they don't cite the DOI? And 
+as you know, I think that also creating a culture and a robustness on data ethics is also important  
+so that people know what's ethical and unethical to do. And also ultimately, if there is an  
+unethical way to deal with data, is there - what are the consequences of, getting all [Participant  
+3’s] data, not mentioning the DOI, not mentioning [Participant 3’s] funding agencies and  
+publishing it. You know, what are the consequences for that? There are no consequence for  
+that. So maybe there's some something to be said about that too",Data Management Areas in Need of Help,Data Ethics,,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0002,"And then I liked the concept of the data ethics training as 
+well. I think that could be very interesting.",Data Management Areas in Need of Help,Data Ethics,,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0003,"So, so an example of this would be if you didn't end up having 
+a result, and you say this is the concentration, sometimes a contractor or a group may say, “well,  
+we're going to put the detection limit, if we didn't detect it, we're going to put that value in the  
+results.” Or, where do you put that? Additionally, if there's different grading criteria for the QA  
+of the data. And so not everybody has the same grading criteria. And so it ends up becoming  
+really difficult to get everybody on the same page, even with larger databases, it's too, but that's  
+if that's, I guess that's where it's at. It's it's very complicated.",Data Management Areas in Need of Help,Data Quality Control,Lack of Data Standards,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0004,"oh, I was at first I was going to say [Participant 3] made an excellent point  
+about QA QC because different labs do have different protocols for that",Data Management Areas in Need of Help,Data Quality Control,Lack of Data Standards,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0005,"This one is actually a missing data,. This one is actually a zero,. This one is actually 
+we got to the river and the river is frozen, so there's no data to be had.",Data Management Areas in Need of Help,Data Quality Control,Lack of Data Standards,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0006,"And on a more meta approach for that, what we have been trying  
+to implement here is a data pipeline. And I don't know if you guys are familiar with that  
+terminology. But it's a standardized folder structure in which you describe exactly what 
+
+happened to those data from, you know, from the field spreadsheet or from the file that one  
+of the flow injection analyzer are from the whatever Eames machine, all the way down to  
+bringing it down to what we call an initial shareable file",Data Management Areas in Need of Help,Data Quality Control,Lack of Data Standards,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0007,"And to make sure you downloaded it correctly. So it's actually in the format it's  
+supposed to be and didn't get all mushed somehow. And so you've got a whole new dataset, but  
+you didn't actually collect. I don't know if that happens anymore. I think maybe that was the old  
+days but, but again, it comes back to that QA QC and having a good understanding of what the  
+data are and what to expect",Data Management Areas in Need of Help,Data Quality Control,Reliable File Storage and Transfer,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0008,"I think that actually may speak to a problem to those that there are so many  
+databases, like ScienceHub. I mean, I didn't know that it was all out there. The papers I grew up  
+reading, I was like, “oh man, I could’ve came and scooped you fools with all this homologue  
+data that I know is out there now.” But I didn't know. And then it's the same thing that I just  
+named, five databases that is including the ECOTOX Database, that would have all the  
+ECOTOX data, at [redacted – a government agency]. I mean, it's just, it's not a one-stop- 
+shop. That makes it hard. You have to know about them. [Participant 4] may be able to speak to  
+that, I imagine.",Data Management Areas in Need of Help,Training,Information Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0009,"I don't know. I think and I agree with [Participant 3]  
+that there's just so many different databases that the area here, but I didn't even know about  
+ScienceHub, to be honest. I had never heard of that one. So I don't know if there's a way to, if we 
+need - if we should - or if there is a way to put that all those different types of information  
+together.",Data Management Areas in Need of Help,Training,Information Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0010,"You know, just thoughts that training alone is really important for ensuring that the data we are  
+putting into any kind of databases, the right high-quality data.",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0011,"For me personally, one of the reasons we use Excel is that I work with a  
+lot of undergraduates. They come to my lab without a lot of training and data in quantitative  
+methods and data management. And Excel is a technology I can teach them quickly. I know,  
+depending on people's training, you might think a database isn't that hard. But databases come  
+with some caveats if you don't really understand how to use them. And also my experience with  
+databases is that at the end of the project I know exactly how I want it set up. But at the  
+beginning of the project, I don't really do because sometimes the project is continually changing  
+in time as we respond to the environment. And databases sometimes can be rigid. I know you  
+can change them, but that is challenging with undergraduates. The undergraduates I work with- I  
+have to train them first to get up to speed. So we mostly use Excel data, Excel worksheets.",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0012,"There's also the other barrier which is like the data professionals can set the  
+standards, but also making sure to everybody that's working with research is also a little bit  
+programming-literate also makes a hell of a difference. Because as [Participant 2] said, you come 
+in with an undergrad and you're working with an REU for a summer, you're going to teach them  
+how to use Excel. And you're not going to teach them how to use R or Python, how to produce  
+an EML metadata code that's associated with it. You know, that's a lot of work. So also I  
+think that making everybody a little bit, like, literate into coding so that you can actually have  
+that community working because, you know, [Participant 4] and say like, “oh yeah, just put it  
+into format Y, X, Y, and Z. And I can easily download it through Python.” It doesn't really, you  
+know, I don't know how to use Python. I don’t even know how to use R, you know. So I think  
+that there's something to be said about that too.",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0013,"That's a really good point because sometimes I'm uploading like 10, 20 gigabytes  
+and who wants to download that to their hard drive? So then yeah, how do you how do you grab  
+just a piece of it and knowing just a little bit about the command line and how that works, That's  
+a good point.",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0014,"I think [Participant 1] had a good point too, but not just creating  
+coding literacy, but I really work with my students to just create data literacy. When they  
+collected data point, if the number is five milligrams per liter, does that make sense for our  
+system? Right? And, what do these numbers actually need?",Data Management Areas in Need of Help,Training,Technical Skills Training,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0015,"- I think that the short answer to your question is, how do I  
+manage my data? Is I use a data pipeline with associated metadata, data dictionaries and well- 
+documented processes that, as I said, we're working with several different data sources, which  
+might be machines, might be spreadsheets, might be sensors, that are monitoring the water. So  
+the data pipeline is a way to get all those different sources of data, and turn them into an initial  
+shareable unit or something that's, you know, I can send to [Participant 3] and to [Participant  
+2] tomorrow and they're going to understand what's going on there.",Data Practices,Storage of Data,Uses DMP,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0016,"And so when you write your data management plan, you can put that in there.",Data Practices,Storage of Data,Uses DMP,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0017,"And then that I might put that  
+whole structure on the GitHub because that's a lot of code. And sometimes just getting the raw  
+data, for me, it might just be running in a Python script. So that goes on GitHub.",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0018,"And then just a little bit of  
+how that works: they take it and they put it on Google Cloud or Amazon file storage. And that's  
+where you actually getting the data from",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0019,"ut we also  
+store those files on either Google Drive or Dropbox as well.",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0020,": For our project which we’ve been trying to implement this governance for data in  
+which everybody in the project and again, [redacted] only has, whatever it is they have - I think  
+it's Google Drive. We only have Box",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0021,"Because often the projects are collaborative with other universities or programs. And  
+the reason it's one or the other is because there isn't universality. So I have some colleagues that  
+only have Google Drive and I have some colleagues that only have access to Dropbox. I'm  
+fortunate that I have both through my university so I can be flexible, but that does mean I have  
+projects across both, which I find annoying to be honest. It can't be helped just because of the  
+rules. Other, universities have different roles in mind. So yes, we have it on our lab computers  
+but also in the cloud.",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0022,"So same issues across. I think that everybody's going to  
+suffer that",Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0023,"Because as [Participant 4] said, it’s terabytes of data, and 
+we have not had any work in storing that those data",Data Practices,Typical File Size,>100Gb,RQ2
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0024,"And this project’s big enough that we can actually have someone that's responsible for data  
+curation. And she's awesome. Like if you guys can have the opportunity to work with a library  
+for data curation, data management, talking to repositories, all of that stuff. It is really  
+useful even though you don't think it is.",Perceptions of Librarians,Role for Librarians in Data Management,Data Management,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0025,"So I think if we're using the data science people as analogous to librarians, then we 
+wouldn't be able to do it without them. I mean, the datasets that we have, we want to there's no  
+way it is. It is a full-time job.",Perceptions of Librarians,Role for Librarians in Data Management,Data Management,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0026,"As I said, in our case, we have the librarian both working with the storage of the  
+data and also communicating with the repositories and formats and all that stuff that is going  
+to, you know, to know that our data is up to snuff to send to the repository. So the answer is yes.",Perceptions of Librarians,Role for Librarians in Data Management,Data Sharing,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0027,"And I know that, I don't know if all of the data storage areas have this, but you can  
+publish your data set right with the DOI code. And so I've been doing that more recently and I've 
+seen other people doing that and I think that can be useful as well as a way to index maybe  
+different databases and maybe that's where librarians can come in to.",Perceptions of Librarians,Role for Librarians in Data Management,Data Sharing,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0028,"Yeah, there's, there's a thing that, you know, I think that we had a meeting  
+about this stuff last week with all the PIs, and I think that when the librarians said that your  
+dataset is going to be published and it’s going to have a DOI associated with it. And then if  
+people want to use it, they have to cite the DOI.",Perceptions of Librarians,Role for Librarians in Data Management,Data Sharing,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0029,"It becomes concerning about people getting scooped, and  
+what's happening, so we use [redacted] there.",Perceptions of Librarians,Role for Librarians in Data Management,Embargo Enforcement,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0030,"As I said, in our case, we have the librarian both working with the storage of the  
+data and also communicating with the repositories and formats and all that stuff that is going  
+to, you know, to know that our data is up to snuff to send to the repository. So the answer is yes.",Perceptions of Librarians,Role for Librarians in Data Management,Find Repositories,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0031,": I see how that how the librarian could be useful in that way. I just, again, I think I  
+would have to - I just don't have any knowledge. So if nothing else, the meeting has been good  
+for making me think about that",Perceptions of Librarians,Undecided,,RQ3
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0032,"I sound like a broken record here, I know about them because our librarian told us  
+so. So yeah, that was part of our data management workshops talking about this.",Awareness of FAIR,Aware of FAIR,,RQ4
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0033,"So it looks like [Participant 1] is maybe the only 
+person that's heard of this.",Awareness of FAIR,Unaware of FAIR,,RQ4
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0034,"And then how, finding the data- a lot of times how I find it is I'm reading a paper and 
+I'm like, “oh, that's a cool dataset. How do I find it?” So I go to the bottom and look at their data  
+availability. And sometimes it's helpful, sometimes it's not. So, I think it feeds back into the  
+publishing side and there should be strict guidelines for the data accessibility part. I really don't  
+care which database people use as long as it's made clear in the paper I'm reading how I can find  
+that data.",Desired Repository Features,Data Availability Standards,,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0035,"So I have run  
+into that and a lot of times I just use the open data.",Desired Repository Features,Data Licenses,Open Access,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0036,"But in the  
+end I have an entire hard drive of data here that if any of you guys wanted to steal and publish  
+it on your abundant free time. Yeah. You're free to get it. But it's just that people are like that  
+whole like scooping things. That whole culture is still very ingrained in people, right?",Desired Repository Features,Data Licenses,Open Access,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0037,"And this may be off topic, but if you've heard about the [redacted] where they're trying to  
+make everything open, all the papers open access. Like I think that should happen here because  
+it's all taxpayer funded. And I understand if you collect data, you want to write your nature  
+paper, but after that, it should be open access because it's taxpayer funded",Desired Repository Features,Data Licenses,Open Access,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0038,"And I think realistically with those deadlines- is somebody really going to be  
+searching HydroShare for my master's student’s completed thesis research to publish her  
+research before I do? No. I mean, I think the purpose of these databases are to do - at least from  
+my perspective in an environmental field - that, we need to do these comparative studies across  
+regions and to be able to take the carbons cycling data from the Southeast and compare it to the  
+carbon cycling data in the Northeast, or into or long-term studies. And that's, I think the power  
+of the open data that we have an ecological research. It's not these small individual projects, 
+because who has time for that? We'd like to meet the person who has that kind of time.",Desired Repository Features,Data Licenses,Open Access,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0039,"And I know that, I don't know if all of the data storage areas have this, but you can  
+publish your data set right with the DOI code. And so I've been doing that more recently and I've 
+seen other people doing that and I think that can be useful as well as a way to index maybe  
+different databases and maybe that's where librarians can come in to.",Desired Repository Features,Data Traceability,DOI,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0040,"I think it's already been said, but just making sure the data has a DOI so that it's  
+citable",Desired Repository Features,Data Traceability,DOI,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0041,"As I said, if somebody used my data from HydroShare, I think that's great. I would like to  
+know that they used it. And so I think, especially if they publish it. So I use a lot of  
+public databases in my classes for teaching to have real data for students to work with. But we're  
+not publishing. It's an exercise. But I think when you get to the publishing stage, making sure  
+that the data are appropriately cited about where they came from. It's really important and  
+that helps feed back to people's anxieties about making their data public",Desired Repository Features,Data Traceability,Notifications,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0042,"As I said, if somebody used my data from HydroShare, I think that's great. I would like to  
+know that they used it. And so I think, especially if they publish it. So I use a lot of  
+public databases in my classes for teaching to have real data for students to work with. But we're  
+not publishing. It's an exercise. But I think when you get to the publishing stage, making sure  
+that the data are appropriately cited about where they came from. It's really important and  
+that helps feed back to people's anxieties about making their data public",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0043,"We need to put all 
+
+these figures in supplemental to avoid what [Participant 2] is talking about and that's somebody  
+taking it and not knowing where it's connected to and not getting the citation, the proper  
+acknowledgment.",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0044,"If I publish something, I just want to know how are people using it because I, I like  
+seeing that",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0045,"But in the  
+end I have an entire hard drive of data here that if any of you guys wanted to steal and publish  
+it on your abundant free time. Yeah. You're free to get it. But it's just that people are like that  
+whole like scooping things",Desired Repository Features,Embargoes,Opposes Embargoes,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0046,"I think - I think embargos need to have a time, definitive end period when the data  
+become available that is not tied to publication only. So there has to be some number of  
+years. And so often in my field we say two years, I've seen longer. But let's be realistic where  
+we're all very busy people. And I have, I have all kinds of data sitting on my computer from past  
+projects. That idealistically, yes, I'm going to find lots of time to write that paper. But  
+realistically, it's not going to happen. And so waiting for me to publish it just means that my data  
+are sitting on my computer forever and there is no access to it. So I think there has to be a  
+definitive end date that is not tied to a statement of publication alone.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0047,"And I think realistically with those deadlines- is somebody really going to be  
+searching HydroShare for my master's student’s completed thesis research to publish her  
+research before I do? No. I mean, I think the purpose of these databases are to do - at least from  
+my perspective in an environmental field - that, we need to do these comparative studies across  
+regions and to be able to take the carbons cycling data from the Southeast and compare it to the  
+carbon cycling data in the Northeast, or into or long-term studies. And that's, I think the power  
+of the open data that we have an ecological research. It's not these small individual projects, 
+because who has time for that? We'd like to meet the person who has that kind of time.",Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0048,"I wanted to just say no. You should have no limits, but, but also there are ways you 
+can you can chunk it up into smaller pieces. So even if even if it does have a file, then there are  
+ways to get around it. Because you can always, if something is too big, you can always compress 
+it. You can put into a zip file. And that makes it smaller. Um, but, but really, when I'm dealing  
+with terabytes of data, I really don't want to go through that hassle. So I want to just say no, don't 
+put any limits on it.",Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0049,"I guess if no one has more comments about, if everyone just thinks that all of the  
+data should be online",Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Ecology_Focus_Group_Transcription,Ecology_Focus_Group_Transcription_c0050,"I wanted to just say no. You should have no limits, but, but also there are ways you 
+can you can chunk it up into smaller pieces. So even if even if it does have a file, then there are  
+ways to get around it. Because you can always, if something is too big, you can always compress 
+it. You can put into a zip file. And that makes it smaller. Um, but, but really, when I'm dealing  
+with terabytes of data, I really don't want to go through that hassle. So I want to just say no, don't 
+put any limits on it.",Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0001,"In another study that I was involved in had retinal data. So this  
+was just pictures that were taken using an ophthalmolo-scope. And we had a big debate there  
+because we wanted to release that as a public data set. But then we freaked out about, “oh my  
+God, you know, your retina is like a fingerprint and the pattern of veins like the vasculature and  
+your retina is unique to every person.” So we had a big freak out about that. And what if  
+somebody tries to relate the retinal data to this person? But I mean, our, our fears or whatever  
+substantiated and I don't think anyone ever tried to do that, but it was in the back of our heads  
+when we were designing this and when we are trying to create anonymization procedures for that 
+data. So it was something we thought about, but we weren't exactly sure, I think, how to go about 
+doing that in the most secure a possible way. We just kinda hoped we’re doing it securely. But I  
+would say that would sum up my experience.",Data Management Areas in Need of Help,Anonymization Rules,,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0002,". Finally, there are few data standards, and those that do exist are nascent and  
+incomplete (e.g. NWB)",Data Management Areas in Need of Help,Data Quality Control,Lack of Data Standards,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0003,"As noted above, when we find that data standards are not present we need to come up with on- 
+the-fly solutions.",Data Management Areas in Need of Help,Data Quality Control,Lack of Data Standards,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0004,"Like so. So it's a little bit hard in the sense you  
+have to, to know what's going on with this study. You have to talk to particular people. And if  
+you look in somebody else's folder, you have like no frame of reference for what they're doing  
+with their data or what this spreadsheet is or what that spreadsheet is.",Data Management Areas in Need of Help,Data Quality Control,Metadata,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0005,"And typically what happens is that  
+researchers kind of come and go, students kind of come and go and everyone has their old  
+folders with all they're totally like context-less data there that then you'd have to go call them and 
+ask, wait, what were you doing with this spreadsheet? Is it important to me or is it important to  
+this research question?",Data Management Areas in Need of Help,Data Quality Control,Metadata,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0006,Data QC – making sure all data and meta data are in good shape.,Data Management Areas in Need of Help,Data Quality Control,Metadata,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0007,Data formats based on rational onthologies.,Data Management Areas in Need of Help,Data Quality Control,Standardized Data Formats,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0008,"High-speed computing for processing large volumes of data (i.e., EEG, simulations, etc.).",Data Management Areas in Need of Help,High-speed Compute,,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0009,"That's another thing I think when [Participant 1] said neuroscience is very difficult. 
+Like even among the doctors, like they have so many different groups, like when you constantly  
+remaking, we have the PET scanner, like microplexity. People are there and then you have MRI  
+and then you have other people who are neurologists. So it's a, it's a triad. We hope you have a  
+neurologist, you have a neuroradiologist, and you have to have the nuclear medicine people to  
+have those [data] being kind of scanned. As well as - it's a lot of people should be involved in  
+whole folder repository thing. Because when you are part of ethnic profiling or anything, you  
+need to have lot of people together to kind of do any, any kind of studies. So it's not only you can
+
+take that decision, what are the stuff you need and you don't need? So I think from that  
+perspective, like cancer and other diseases, I think neuroscience, like a neuroimaging or neuro- 
+repository is still in the infancy in that regard, I would say because a lot of information is not  
+there, which we need. 
+Participant 1: You mean like when you have multi-modal datasets? 
+Participant 2: Yeah, multi-modal. That would be extremely helpful. 
+Participant 1: And there are yeah, I - to the best of my knowledge. Yeah, there there there aren't  
+many datasets that have multiple modalities. And then that would require a pretty multi- 
+disciplinary approach to really be able to understand? 
+Participant 2: Yes. 
+Participant 1: Yeah.",Data Management Areas in Need of Help,Mulitmodal Data,,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0010,"Yeah. I think honest. I mean, just something as I've thought about doing this too,  
+but just something as simple as gathering the scientists together with a PowerPoint and some  
+coffee or something and just saying here is what, to the best of our knowledge, here's what  
+current repositories are in in, in, in this, in the country that we're currently in or that are  
+accessible in other countries. I think just now, no one has ever really had like a basic introduction 
+to what's out there. Really. It's just something that you've come across in papers really. And that  
+if you're reviewing literature, you'll find it. But no one ever, I have never ever seen anybody give 
+a relatively holistic overview of neuroscientific datasets or data repositories that are in different -  
+accessible in different ways.",Data Management Areas in Need of Help,Training,Information Training,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0011,"And then after a study is completed, the data, typically, I know it varies from  
+location to location and where you're doing the research but you do have to delete data or remove 
+data after a certain number of years, maybe five to seven years. And in sort of in that period went 
+to study when data collection is done. It'll just kind of be sitting there on the server. This old, this 
+data that may or may not have been used in a publication. And typically what happens is that  
+researchers kind of come and go, students kind of come and go and everyone has their old  
+folders with all they're totally like context-less data there that then you'd have to go call them and 
+ask, wait, what were you doing with this spreadsheet? Is it important to me or is it important to  
+this research question? Okay. And that's, I would say, that's kind of how the during-research  
+versus after-research period kind of goes. There's a little bit of a purgatory when data isn't  
+necessarily being used but isn't being deleted yet. And then there often is a lot of confusion and  
+disorganization around that. 
+Interviewer 11: Yeah, Going off of that. Is there any kind of like unified protocols, like as far as  
+like, how to take with your personal data storage, like, because that can cause such a  
+disorganization. And I would think, like, especially if you can't get a hold of the person who  
+made that original dataset. So is there anything that kind of make sure that that doesn't happen or  
+do you kinda reduce that?
+
+Participant 1: Please make one.",Data Management Areas in Need of Help,Verifiable Data Deletion,,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0012,"I don't want to be a devil's advocate here, but a lot of people do not feel  
+comfortable sharing their own data to a lot of people, because one, they may feel, “okay,  
+somebody from the editorial board or something try to ding me something like that. Or someone  
+is trying to find out whether we did the data and all these things. We have done something wrong 
+or something?” Yeah, um, and these are the part and parcel of scientific research, right? Suppose  
+I do an experiment today in our lab setting. The result I gave, somebody does in, in, in, anywhere 
+in the world. He does. He or she doesn't get the same result. What does it mean? It comes to  
+scientific point of view. Does it mean I'm wrong or he's done? It's very difficult to tell, right?  
+Yeah. Because based on how many variables you are introducing [in] a new experiment, the  
+resulting can vary obviously, right? You got my point? 
+Interviewer 11: Yes. Yes I did. 
+Participant 2: That is the thing and that is one of that a lot of people - when it comes to sharing  
+the data, raw data or something like that, they may not be able to feel comfortable to share  
+everything one may need. But if that person is honest and okay, okay. Doesn't matter. These are  
+the stuff we did and these are the conditions that we have used. Here is the data. 
+Participant 1: [Participant 2] if I might add on that. Do you think there's kind of in in research, do 
+you feel there's a kind of pervasive anxiety with a lot of searches that I don't want people to - I 
+
+don't want people to know that I'm in doubt or I don't want people to know that I might have  
+done something wrong, even though an honest conversation about everyone's strengths and  
+limitations is a very beneficial thing to have in principal? 
+Participant 2: Yeah. Yeah, absolutely. Because I do like, I do not reject the paper based on this  
+thing. But once I read and once they see the images, one most important thing goes wrong in  
+neuroscience research, I call it artificial. Lot of people who publish artifact as a result. So unless  
+you find the difference, unless you delineate that artifact from the result. You are in bad shape.  
+Because a lot of people try to publish something, out of nothing. And then they get screwed  
+pretty much. And science is such. You cannot escape it because if you have someone who can  
+think, “I'm too smart,” you can find out that someone is trying to publish something which is not  
+true. It is very easy to find out. Because system is such that it will show up or demand to. 
+Participant 1: Do you mean to show our people do you feel like there, there, there's a lot of  
+people just due to pressures, due to publishing pressures. For example, like, “oh, we have to  
+show a significant result.” So it's a little bit more tempting to -  
+Participant 2: Yes. 
+Participant 1: publish something that isn't true. Well, that's a very big stretch of the truth and then 
+if you have your data up in a repository, people got it. 
+Participant 2: Yeah. 
+Participant 1: the jig is up. 
+Participant 2: Yep. That's 100 percent true. It doesn't matter which part of the world where people 
+are always under tremendous pressure and tension to publish or perish kind of environment.  
+Now, I think the most important thing is the process. That's what I teach my postdoctoral fellows, 
+junior scientists, as well as a graduate student as a summer student. Am I getting the entity? The  
+process should be clear and very simple and it should be easily understandable for anyone who is 
+doing the research. If that process is not right, there will be people out there like try to  
+manipulate the result because of the pressure.",Data Practices,Scientists Uncomfortable Sharing Data,,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0013,"There are skunkworks projects, where data management is largely ad 
+hoc. A few larger, collaborative projects use DataJoint, a mySQL-based data workflow system.  
+The database runs in the commercial cloud but only handles processed data. Large bulky raw  
+files are in public repositories and linked to the database.",Data Practices,Storage of Data,DMP Dependent on Project,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0014,"Generally we stick to our DMPs, but we make compromises based on technical hurdles & cost.",Data Practices,Storage of Data,DMP Dependent on Project,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0015,"So  
+depending the new rule is DMB data management plan. So we being a researcher, we are out and 
+out, have to have that plan in place. Either you are going to have your online server. You can  
+have your own place where you can; these days. There - those days are gone where people will  
+be filing those things in a library and all the data and all. So it's mostly cloud, right? So we have  
+our own repository and then now being in an editorial board of three journals, I can tell none of  
+our journal - like I'm in the metabolic brain research - I’m in Alzhiemer’s research. I'm also an  
+[redacted]. So all of them, we gotta have data sharing such as if someone asked you are for after  
+the experiment is done or something. If someone asked, you got to have that data unaltered, or  
+what do you call it, raw data - has to be there if someone asks for access to those data.",Data Practices,Storage of Data,Uses DMP,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0016,"But if anybody is not published, all do we is  
+create a folder and then put all the information, like suppose in a government situation, like you  
+have specific protocol, what exactly is being done and what is the project report and all. And also 
+we have a large protocol in our - before you start any project, we have a big meeting, so we have  
+the computer support.",Data Practices,Storage of Data,Uses DMP,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0017,"And I think in our organization we have a one  
+particular plan is called data management plan. And it kind of summarizes what are the stuff  
+you're going to record and the stuff you can let go. And so it's pretty much unified, I would say in 
+this particular organization. I cannot speak about the university data management plan at this  
+point. But yes, we do have a unified data management plan and also data sharing because it costs 
+money, data storage cost money and retention and preservation. There are some rules which I  
+admit I am not going to recollect all of them because it depends on the sensitivity of the  
+information and all kinds of things that is being determined by higher, higher authorities. How  
+much information should be retained and how long should we retain, you know. And what are  
+the data that will be publicly available, and what data could be available up on an individual  
+request and everything.",Data Practices,Storage of Data,Uses DMP,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0018,"And also 
+we have a large protocol in our - before you start any project, we have a big meeting, so we have  
+the computer support. Like suppose you start a project. So how the animals are behaving? They  
+have the full set of data and how, you know, body weight of the animal and the weekly check.  
+And actually in our [laboratory], um, we do have like daily check on there, all this thing. So I'm  
+getting emails that if someone is not doing well or else you have to sacrifice them, right? I do  
+have a breeding colony for all animals here. So that means we do have a huge data repository  
+where you have all the records of the animals and before it; like even if it is closed out after three 
+years of that particular protocol, [we] still have all the data.",Data Practices,Storage of Data,Uses DMP,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0019,"So that means we do have a huge data repository  
+where you have all the records of the animals and before it; like even if it is closed out after three 
+years of that particular protocol, [we] still have all the data.",Data Practices,Storage of Data,Uses IR,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0020,"Yeah. In our case, we do have a data repository but this is not shared because  
+nobody can access from outside, only, unless data be made available at the level of them  
+individually",Data Practices,Storage of Data,Uses IR,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0021,The database runs in the commercial cloud but only handles processed data,Data Practices,Storage of Data,Uses Proprietary Cloud Storage,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0022,his data is very large (TB / day),Data Practices,Typical File Size,>100Gb,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0023,"There are fundamental challenges with moving, storing, accessing PByte-scale datasets.",Data Practices,Typical File Size,>100Gb,RQ2
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0024,"So there's doing here around  
+data collection, which specifically in the human case, obviously requires a lot of security that 
+
+needs to be anonymized data. And I think that's one thing that it would be good if librarians knew 
+about would be rules regarding that and data sharing or sharing of human data and anonymized  
+data",Perceptions of Librarians,Role for Librarians in Data Management,Anonymization Rules,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0025,"Data management requires relatively sophisticated programming skills and data science skills. As 
+long as librarians have those skills they could contribute.",Perceptions of Librarians,Role for Librarians in Data Management,Data Management,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0026,"And I think that's one thing that it would be good if librarians knew 
+about would be rules regarding that and data sharing or sharing of human data and anonymized  
+data.",Perceptions of Librarians,Role for Librarians in Data Management,Data Sharing,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0027,"Hmm, librarians. So in this case, what happened, in our case, librarians, we don't  
+deal with the librarian that much in terms of data sharing because we have our IT sector and IT  
+people who actually help us in the data management plan. Yes, we do use our help from the  
+library and when you try to get some publications and other things. And because we, we take  
+loan from other, like, you know, different, different ways we get the different, different  
+manuscript from different sources and our libraries not subscribe to have [that] journal, right? So  
+either you request to the librarian and so they do get it for us. But other than that in terms of data  
+management plan, I don't think a librarian has any role to play.",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0028,"In terms of librarians as stewards and people who can sort of curates data  
+accessibility. I can maybe. I don't know if I am because I - yeah. And I always sort of think about 
+it's oh, it's the IT people who store our, store our data and keep our anonymized data. And then  
+it's librarians that deal more with access to information. Helping students and researchers be  
+aware of what, what information is available to them, what databases are available to them.",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0029,". But I  
+think, I think anything that can be done to make students aware of, for students and researchers  
+aware of what information, when, what databases are free for them to use.",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0030,". And I was a teaching  
+assistant this spring and we, I mean, we did it in a cognitive and behavioral neuroscience course.  
+And I, pretty much the entirety of the course was just information literacy. And this is, this is  
+how you correctly use sources and this is how you correct, or this is how you navigate sort of this 
+explosion in information availability. So, yeah, I think, so I would say to narrow it down  
+specifically for libraries, I would say to give people the tools they need to sort of navigate  
+increasingly available and increasingly accessible information. Because it's just, it's so easy to  
+get lost in that and not to make heads or tails of so many available journals.",Perceptions of Librarians,Role for Librarians in Data Management,Information Research/Search Help,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0031,"The thing that's on the top of my head for specifically in  
+neuroscience research is that, I've mentioned before, that a lot of neuroscientists are starting to  
+pool neuroimaging data and starting to sort of make, really make these really large, very  
+impressive databases of anonymous neuro-related - It could be neuroimaging are like EEG data-  
+but there are these large anonymized data sets that a lot of people are using. But I think people  
+are, I think people are a little bit uncertain on like for example, if data was collected in the year  
+in Europe and was and is under like European data security rules. Is that okay to access in the  
+United States? I've had, I've had questions about that or similar questions about data acquired in  
+China, Japan, et cetera. Are there, I think people are a little bit confused about, wait, is it, is it  
+free data? Is it actually ok that if a scientists actually publishes their data and says that, “I'm okay 
+if you use this one,” as are any actual legal thing to keep in mind. Those are, those are a couple  
+of questions that I've heard from people in my field and I don't think anyone really know what to  
+do",Perceptions of Librarians,Role for Librarians in Data Management,Licenses,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0032,"And then the rules  
+regarding fair use of those databases, I think is the most important thing.",Perceptions of Librarians,Role for Librarians in Data Management,Licenses,RQ3
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0033,"Yeah, I've, I've heard about it too in the context of teaching information literacy  
+and talking about how to be a good, good little scientist and I. And of course I, you talk about it  
+and you think about [it] a lot when you're teaching students and then when you go back to your  
+own work, then you forget about it and you forget about being [a] FAIR and open researcher but.  
+It's – I, I've thought about it in regards to what information I keep and what information I discard 
+or the choices I make and okay, well, is this an important variable or is it not, or should I just  
+include it in my analysis? Because because I should. It makes me think more about the arbitrary  
+decisions that I make and that, okay, if this is going to be reproducible, and I have that, that  
+means I have to be able to really be able to articulate the decisions I make in terms of, in terms of 
+analysis. And it, it really sort of puts my focus back on justifying what I'm doing. So that's, kind  
+of how I would conceptualize how scientists internalize the FAIR principle. And I think how it's  
+maybe put into use and when we actually work on the data.",Awareness of FAIR,Aware of FAIR,,RQ4
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0034,I agree with those principles (I heard about them).,Awareness of FAIR,Aware of FAIR,,RQ4
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0035,FAIR is easy in some fields,Awareness of FAIR,Aware of FAIR,,RQ4
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0036,"This is gaining traction, but the devil is in the details. 
+FAIR is easy in some fields. For example, if all your lab does is DNA sequencing then it’s easy  
+to do FAIR. If your lab does complex, multi-modal experiments where sequencing is only one  
+data stream then FAIR is much harder. For example, for us FAIR implies data standards and  
+databases for HUGE data sets. Not easy.",Awareness of FAIR,Problems with FAIR,Problematic with Large and/or Complex Data,RQ4
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0037,"No actually, I am not aware of that principle honestly.",Awareness of FAIR,Unaware of FAIR,,RQ4
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0038,"but it's not easy always because the main problem - what 
+
+I found out - although in the repository, it says they are available. But when it comes to when I  
+submit the whole request to the director and they said No, no, no. These are the one which are  
+not available, but I can find another source and all those things.",Desired Repository Features,Data Availability Must be Updated,,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0039,"There's no more. So I think the  
+problem is they're not constantly updating the repository. So that is a constant problem. I've been  
+in business for a long time, I can tell more than not, the lag between submitting these and getting  
+to know one of the things going on. You will see that not all things are available because like any 
+kind of data repository like to constantly update them is another challenge, I would say",Desired Repository Features,Data Availability Must be Updated,,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0040,Standard licenses are fine.,Desired Repository Features,Data Licenses,Both/All,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0041,,Desired Repository Features,Data Licenses,No Licenses,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0042,Ontologies and data standards are key,Desired Repository Features,Data Standards,,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0043,"Off the top of my head and maybe I'll bet a lot already do this, but I think just a  
+tracker of the papers that get published using that repository is a pretty simple metric. I'm sure a  
+lot of them already do that, but I'm not sure.",Desired Repository Features,Data Traceability,Usage Statistics,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0044,"0 days 
+The problem generally is not that someone scoops the author. The problem generally is that the  
+data is out there and never used. Reuse of data should be encouraged as much as possible.",Desired Repository Features,Embargoes,Opposes Embargoes,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0045,At least 10 years,Desired Repository Features,Embargoes,Supports Embargoes,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0046,No,Desired Repository Features,File Size Limits,Opposes File Size Limits,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0047,"Ideally no size limits. But given limit resources, there should be some consideration given to the  
+importance of the projects (i.e. will the data actually be reused). A board could mediate.",Desired Repository Features,File Size Limits,Supports File Size Limits,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0048,Frequent back-ups and high secutiry [sic] to avoid data corruption,Desired Repository Features,Frequent Back-Ups,,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0049,Search engines,Desired Repository Features,High Quality Metadata,Greater Searchability,RQ5
+Neuroscience_Focus_Group_Transcription,Neuroscience_Focus_Group_Transcription_c0050,high secutiry,Desired Repository Features,Security,Repository Security Infrastructure,RQ5
