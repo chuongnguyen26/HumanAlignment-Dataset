@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+.env
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Experiment outputs (keep small checked-in baselines under results/)
+outputs/
+runs/
+wandb/
+mlruns/
+*.log
+
+# Large local caches
+.cache/
+*.parquet

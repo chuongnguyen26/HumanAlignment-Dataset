@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Formal citation will be added once the COLM 2026 camera-ready / arXiv version is public."
+title: "QualAlign: Benchmarking Automated Qualitative Coding Against Human Schemas"
+authors:
+  - family-names: Smith
+    given-names: Taggert
+  - family-names: Nguyen
+    given-names: Chuong
+  - family-names: Yang
+    given-names: Qisen
+  - family-names: Bandopadhyay
+    given-names: Oishani
+  - family-names: Su
+    given-names: Yaru
+  - family-names: Polikarpova
+    given-names: Nadia
+  - family-names: Pi
+    given-names: Xinyu
+year: 2026
+license: MIT
+repository-code: "https://github.com/chuongnguyen26/HumanAlignment-Dataset"
+url: "https://colm.eventhosts.cc/Conferences/2026/AcceptedPapers"
