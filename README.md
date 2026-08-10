@@ -92,4 +92,4 @@ Dataset reuse may be subject to the licenses of the original qualitative studies
 
 ## Contact
 
-For questions about the benchmark, open an issue or contact the authors.
+For questions about the benchmark, please open an issue or contact the authors.
